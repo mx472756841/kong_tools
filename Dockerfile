@@ -1,8 +1,8 @@
-FROM python:3.8-alpine3.9
+FROM python:3.6-alpine3.9
 
-# 构建redis
-# add our user and group first to make sure their IDs get assigned consistently, regardless of whatever dependencies get added
-RUN addgroup -S redis && adduser -S -G redis redis
+RUN apk add --no-cache \
+'su-exec>=0.2' \
+tzdata
 
 # 构建本地代码
 COPY / /kong_tools/

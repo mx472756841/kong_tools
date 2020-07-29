@@ -2,6 +2,7 @@ import logging.config
 import os
 
 from utils.log import Log
+from utils.redis import RedisClient
 
 basedir = os.path.abspath(os.path.dirname(__file__))
 
@@ -43,7 +44,8 @@ class Config:
 
     @classmethod
     def init_app(cls, app):
-        pass
+        app.redis = RedisClient.get_client(cls.REDIS_HOST, cls.REDIS_PORT,
+                                           cls.REDIS_DB, cls.REDIS_PASS)
 
 
 class DevelopmentConfig(Config):

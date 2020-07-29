@@ -15,7 +15,7 @@ class HttpLog:
         """
         request.json['localtion'] = {}
         try:
-            ip = request.json.get("client_ip")
+            ip = request.json['request']['headers']['x-real-ip']
             if ip:
                 rv, state_code = AMap().get_place_by_ip(ip, current_app.config["AMAP_KEY"])
                 if state_code == 200 and isinstance(rv, dict) and str(rv.get("status")) == '1':
@@ -27,12 +27,16 @@ class HttpLog:
     def _get_user_info(cls):
         request.json['user'] = {}
         try:
-            token = request.json.get("request", {}).get("headers", {}).get("x-access-token")
+            token = request.json["request"]["headers"].get("x-access-token", "")
             if token:
+                print("token = %s" % token)
                 user_key = current_app.config["USER_KEY"] % token
-                data = current_app.admin.redis.get(user_key)
+                print("user_key = %s" % user_key)
+                data = current_app.redis.get(user_key)
+                print("data = %s" % data)
                 if data:
                     request.json['user'] = json.loads(data.decode("utf-8"))
+                    print(request.json)
         except:
             traceback.print_exc()
 

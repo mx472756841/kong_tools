@@ -29,7 +29,8 @@ class HttpLog:
         try:
             token = request.json.get("request", {}).get("headers", {}).get("x-access-token")
             if token:
-                data = current_app.admin.redis.get(token)
+                user_key = current_app.config["USER_KEY"] % token
+                data = current_app.admin.redis.get(user_key)
                 if data:
                     request.json['user'] = json.loads(data.decode("utf-8"))
         except:

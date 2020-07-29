@@ -3,3 +3,4 @@ Flask-Script
 requests
 gunicorn
 elasticsearch
+redis>=3.2.1

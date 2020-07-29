@@ -34,7 +34,7 @@ def post():
             "doc": request.json,
             "doc_as_upsert": True
         }
-        rv = es_service.index("", update_data)
+        rv = es_service.index(current_app.config['ELASTICSEARCH_INDEX'], update_data)
         logger.info("rv >>>> {} ".format(rv))
     except:
         logger.exception("处理httplog失败")

@@ -36,6 +36,7 @@ class Config:
 
     # ElasticSearch需要的日志
     ELASTICSEARCH_URL = os.environ.get("ELASTICSEARCH_URL", "127.0.0.1:9200")
+    ELASTICSEARCH_INDEX = os.environ.get("ELASTICSEARCH_INDEX", "idx_kong_req_log")
 
     @classmethod
     def init_app(cls, app):

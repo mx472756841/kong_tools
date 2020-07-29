@@ -31,7 +31,13 @@ docker build -t kong_tools:latest .
 生成镜像之后启动镜像即可
 ```shell
 docker run -p 10050:5000 -i -t -d \
-    --name kong_tools kong_tools
+--env REDIS_HOST=REDIS服务地址 \
+--env REDIS_PORT=REDIS端口 \
+--env REDIS_PASS=REDIS密码 \
+--env REDIS_DB="REDIS DB" \
+--env AMAP_KEY="高德地图的KEY" \
+--env ELASTICSEARCH_URL="请求的elastic search地址" \
+--name kong_tools kong_tools
 ```
 
 ## 使用

@@ -27,7 +27,7 @@ class HttpLog:
     def _get_user_info(cls):
         request.json['user'] = {}
         try:
-            token = request.json.get("request", {}).get("headers", {}).get("X-Access-Token")
+            token = request.json.get("request", {}).get("headers", {}).get("x-access-token")
             if token:
                 data = current_app.admin.redis.get(token)
                 if data:

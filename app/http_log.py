@@ -30,11 +30,7 @@ def post():
     try:
         # 将内容转发至elasticsearch
         es_service = Elasticsearch([current_app.config['ELASTICSEARCH_URL']])
-        update_data = {
-            "doc": request.json,
-            "doc_as_upsert": True
-        }
-        rv = es_service.index(current_app.config['ELASTICSEARCH_INDEX'], update_data)
+        rv = es_service.index(current_app.config['ELASTICSEARCH_INDEX'], request.json)
         logger.info("rv >>>> {} ".format(rv))
     except:
         logger.exception("处理httplog失败")

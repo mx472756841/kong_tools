@@ -16,7 +16,6 @@ class HttpLog:
         request.json['localtion'] = {}
         try:
             ip = request.json.get("client_ip")
-            print(ip)
             if ip:
                 rv, state_code = AMap().get_place_by_ip(ip, current_app.config["AMAP_KEY"])
                 if state_code == 200 and isinstance(rv, dict) and str(rv.get("status")) == '1':

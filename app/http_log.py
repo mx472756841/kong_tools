@@ -8,7 +8,8 @@
 import json
 import logging
 
-from flask import Blueprint, Response, request
+from elasticsearch import Elasticsearch
+from flask import Blueprint, Response, request, current_app
 
 from middleware.http_log import HttpLog
 
@@ -22,12 +23,21 @@ def post():
     """
     接收kong发送的http log格式，转存到elasticsearch数据中
     """
+    resp = {
+        "code": 0,
+        "message": "处理成功"
+    }
     try:
-        return Response(json.dumps(request.json), mimetype='application/json')
+        # 将内容转发至elasticsearch
+        es_service = Elasticsearch([current_app.config['ELASTICSEARCH_URL']])
+        update_data = {
+            "doc": request.json,
+            "doc_as_upsert": True
+        }
+        rv = es_service.index("", update_data)
+        logger.info("rv >>>> {} ".format(rv))
     except:
         logger.exception("处理httplog失败")
-        resp = {
-            "code": 99,
-            "message": "处理信息失败"
-        }
-        return Response(json.dumps(resp), mimetype='application/json')
+        resp["code"] = 99
+        resp["message"] = "处理信息失败"
+    return Response(json.dumps(resp), mimetype='application/json')

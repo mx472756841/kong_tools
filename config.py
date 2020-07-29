@@ -31,7 +31,11 @@ class Config:
     REDIS_PASS = os.environ.get("REDIS_PASS", "")
     REDIS_DB = os.environ.get("REDIS_DB", 0)
 
+    # 高德地图，根据IP地址转换到城市的KEY
     AMAP_KEY = os.environ.get("AMAP_KEY", "")
+
+    # ElasticSearch需要的日志
+    ELASTICSEARCH_URL = os.environ.get("ELASTICSEARCH_URL", "127.0.0.1:9200")
 
     @classmethod
     def init_app(cls, app):

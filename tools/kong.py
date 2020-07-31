@@ -16,16 +16,15 @@ def handler_route():
             data = resp_data.get("data", [])
             # 处理data
             for row in data:
-                # row path + method
-                paths = row["paths"]
+                # method + route_id
                 methods = row["methods"]
-                for path in paths:
-                    for method in methods:
-                        finnaly_data[f"{method}:{path}"] = ""
+                for method in methods:
+                    finnaly_data["{}:{}".format(method, row['id'])] = {"paths": row["paths"], "note": "",
+                                                                       "service_id": row["service"]["id"]}
             if not next:
                 break
-            url = f"http://localhost:8001{next}"
+            url = "http://localhost:8001{}".format(next)
             resp = requests.get(url)
 
         with open("route.json", 'w') as f:
-            f.write(finnaly_data)
+            f.write("{}".format(finnaly_data))

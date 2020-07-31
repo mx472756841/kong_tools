@@ -1,0 +1,2846 @@
+{
+    'GET:05b4977a-8bd6-4d50-a618-2c7b9e372e82': {
+        'paths': [
+            '/auction/v210/buy_sell/comment/level_1/list/.*'],
+        'note': '',
+        'service_id': 'c9beb237-7e85-49b3-8561-0082fc8086ea'
+    },
+    'POST:74e1ac0a-a791-48bd-b362-c01e7e9dd294': {
+        'paths': [
+            '/auction/v200/payment/real_pay_pledge'],
+        'note': '',
+        'service_id': 'c9beb237-7e85-49b3-8561-0082fc8086ea'
+    },
+    'GET:e987e85b-2a20-4b5b-82bf-54310c0561c2': {
+        'paths': [
+            '/auction/v222/get_user_mini_qrcode'],
+        'note': '',
+        'service_id': 'c9beb237-7e85-49b3-8561-0082fc8086ea'
+    },
+    'PUT:c09b1fbe-abee-4c6c-8332-bf5deca9c888': {
+        'paths': [
+            '/auction/v260/tea_room/detail/.*'],
+        'note': '',
+        'service_id': 'c9beb237-7e85-49b3-8561-0082fc8086ea'
+    },
+    'POST:badac605-141f-4788-a445-09eea46dca8c': {
+        'paths': [
+            '/auction/v221/buy_sell/sell_order/send_express'],
+        'note': '',
+        'service_id': 'c9beb237-7e85-49b3-8561-0082fc8086ea'
+    },
+    'DELETE:b7b51267-b3a0-480a-ab54-828dd5a0d00f': {
+        'paths': [
+            '/auction/v240/answers_comment/level_2/auction'],
+        'note': '',
+        'service_id': 'c9beb237-7e85-49b3-8561-0082fc8086ea'
+    },
+    'POST:b6c051be-6e80-41af-8cf1-3b717d7c5df7': {
+        'paths': [
+            '/auction/live/v204/live_activity/share'],
+        'note': '',
+        'service_id': 'c9beb237-7e85-49b3-8561-0082fc8086ea'
+    },
+    'DELETE:ea0902ff-5ca1-468f-a30b-b187d4ec9e96': {
+        'paths': [
+            '/auction/v240/answers_comment/level_1/auction'],
+        'note': '',
+        'service_id': 'c9beb237-7e85-49b3-8561-0082fc8086ea'
+    },
+    'GET:17a246e5-1286-4400-97a9-678c12da463b': {
+        'paths': [
+            '/auction/v200/special_auction/index'],
+        'note': '',
+        'service_id': 'c9beb237-7e85-49b3-8561-0082fc8086ea'
+    },
+    'GET:8350464b-5172-47e6-911c-626444f7407d': {
+        'paths': [
+            '/auction/v221/buy_sell/about_sell/my_sell/.*'],
+        'note': '',
+        'service_id': 'c9beb237-7e85-49b3-8561-0082fc8086ea'
+    },
+    'GET:f72c39f7-b786-4a00-a102-daf1539e7789': {
+        'paths': [
+            '/auction/user/user_homepage'],
+        'note': '',
+        'service_id': 'c9beb237-7e85-49b3-8561-0082fc8086ea'
+    },
+    'POST:b3d9eb95-04ac-4588-a48b-5d49d1233871': {
+        'paths': [
+            '/auction/v210/buy_sell/comment/level_2/like'],
+        'note': '',
+        'service_id': 'c9beb237-7e85-49b3-8561-0082fc8086ea'
+    },
+    'GET:fee4e75c-a2d5-447f-8b2b-e65d71bf5306': {
+        'paths': [
+            '/auction/wechat_public'],
+        'note': '',
+        'service_id': 'c9beb237-7e85-49b3-8561-0082fc8086ea'
+    },
+    'POST:e5f28646-70a3-4397-b2de-6d8b1350a88b': {
+        'paths': [
+            '/auction/live_special/v250/product/publish'],
+        'note': '',
+        'service_id': 'c9beb237-7e85-49b3-8561-0082fc8086ea'
+    },
+    'POST:c1014bac-8047-4e42-a69d-4542762838d3': {
+        'paths': [
+            '/auction/comment/level_2/auction'],
+        'note': '',
+        'service_id': 'c9beb237-7e85-49b3-8561-0082fc8086ea'
+    },
+    'POST:4aba7edb-76cc-4162-a52c-dc54f1393a90': {
+        'paths': [
+            '/auction/payment/wechat_pay'],
+        'note': '',
+        'service_id': 'c9beb237-7e85-49b3-8561-0082fc8086ea'
+    },
+    'POST:8ec51e26-84e4-40ed-a971-49ff57e2dc27': {
+        'paths': [
+            '/auction/live_special/v250/product/draft'],
+        'note': '',
+        'service_id': 'c9beb237-7e85-49b3-8561-0082fc8086ea'
+    },
+    'POST:a3c06406-cf0b-4de5-a452-592230259930': {
+        'paths': [
+            '/auction/comment/level_1/like'],
+        'note': '',
+        'service_id': 'c9beb237-7e85-49b3-8561-0082fc8086ea'
+    },
+    'GET:9344023c-35f7-425d-82cb-fd75d53454cf': {
+        'paths': [
+            '/auction/v131/user/coupon_center'],
+        'note': '',
+        'service_id': 'c9beb237-7e85-49b3-8561-0082fc8086ea'
+    },
+    'PUT:1f1c23e7-63db-43b9-a5ee-626a21af7f7b': {
+        'paths': [
+            '/auction/live_special/v253/live_special_product_order/.*'],
+        'note': '',
+        'service_id': 'c9beb237-7e85-49b3-8561-0082fc8086ea'
+    },
+    'GET:166c9816-f865-4c69-aca9-e0c1dbf0585c': {
+        'paths': [
+            '/auction/v210/user/my_collect_goods_shelves'],
+        'note': '',
+        'service_id': 'c9beb237-7e85-49b3-8561-0082fc8086ea'
+    },
+    'GET:04c7fcae-4a3c-480f-bd17-88dca4594d61': {
+        'paths': [
+            '/auction/v224/annual_data_2019_user_pop_img'],
+        'note': '',
+        'service_id': 'c9beb237-7e85-49b3-8561-0082fc8086ea'
+    },
+    'GET:b5a5e8a9-9210-41ad-a95e-221222b27744': {
+        'paths': [
+            '/auction/v221/buy_sell/my_order_list'],
+        'note': '',
+        'service_id': 'c9beb237-7e85-49b3-8561-0082fc8086ea'
+    },
+    'GET:74ed4aba-750b-4bbb-9098-7bfe68856e35': {
+        'paths': [
+            '/auction/im_live_special/message_list'],
+        'note': '',
+        'service_id': 'c9beb237-7e85-49b3-8561-0082fc8086ea'
+    },
+    'GET:c9ea16cc-0c20-447d-ab04-03317e7a5b26': {
+        'paths': [
+            '/auction/v210/buy_sell/my_sell/detail/.*'],
+        'note': '',
+        'service_id': 'c9beb237-7e85-49b3-8561-0082fc8086ea'
+    },
+    'GET:e3b2eee3-537a-4df4-8d63-97b5060d1914': {
+        'paths': [
+            '/auction/v223/message/user_dynamic'],
+        'note': '',
+        'service_id': 'c9beb237-7e85-49b3-8561-0082fc8086ea'
+    },
+    'GET:d1a199f5-7a55-4cff-ba70-66ed11cdeeb2': {
+        'paths': [
+            '/auction/v260/tea_room/initiate_fission'],
+        'note': '',
+        'service_id': 'c9beb237-7e85-49b3-8561-0082fc8086ea'
+    },
+    'GET:1c71de1f-29eb-4cce-917d-514e61b7741a': {
+        'paths': [
+            '/auction/v210/buy_sell/pay_order'],
+        'note': '',
+        'service_id': 'c9beb237-7e85-49b3-8561-0082fc8086ea'
+    },
+    'GET:60b8f442-968a-43f8-b4a2-f671bcc51767': {
+        'paths': [
+            '/auction/live_special/v270/live_special_info'],
+        'note': '',
+        'service_id': 'c9beb237-7e85-49b3-8561-0082fc8086ea'
+    },
+    'PUT:8350464b-5172-47e6-911c-626444f7407d': {
+        'paths': [
+            '/auction/v221/buy_sell/about_sell/my_sell/.*'],
+        'note': '',
+        'service_id': 'c9beb237-7e85-49b3-8561-0082fc8086ea'
+    },
+    'GET:2021f459-6db7-47a4-b55e-de84555a4679': {
+        'paths': [
+            '/auction/product_manage/v270/im/friend_list'],
+        'note': '',
+        'service_id': 'c9beb237-7e85-49b3-8561-0082fc8086ea'
+    },
+    'GET:ac3e9fb2-a16e-4282-b69d-fe9991962595': {
+        'paths': [
+            '/auction/live_special/v250/commerce_product'],
+        'note': '',
+        'service_id': 'c9beb237-7e85-49b3-8561-0082fc8086ea'
+    },
+    'POST:6d7c83eb-37f8-4e4e-bbd4-d38d4bea4830': {
+        'paths': [
+            '/auction/logout'],
+        'note': '',
+        'service_id': 'c9beb237-7e85-49b3-8561-0082fc8086ea'
+    },
+    'GET:1e2efc45-34c4-49cf-9744-4736a0659e55': {
+        'paths': [
+            '/auction/live_special/v270/query_virtual_number'],
+        'note': '',
+        'service_id': 'c9beb237-7e85-49b3-8561-0082fc8086ea'
+    },
+    'GET:b92afffb-728c-4ddc-aad2-2a0d5647bfbf': {
+        'paths': [
+            '/auction/product_manage/v270/product_offer_result'],
+        'note': '',
+        'service_id': 'c9beb237-7e85-49b3-8561-0082fc8086ea'
+    },
+    'POST:f65e6d8b-5c2d-4d7d-bbd6-5477b08bd7b7': {
+        'paths': [
+            '/auction/v260/tea_room/create'],
+        'note': '',
+        'service_id': 'c9beb237-7e85-49b3-8561-0082fc8086ea'
+    },
+    'GET:0ca686ad-3e65-483d-919d-b54ee2c6306c': {
+        'paths': [
+            '/auction/message/like_collect_list'],
+        'note': '',
+        'service_id': 'c9beb237-7e85-49b3-8561-0082fc8086ea'
+    },
+    'GET:02cc6c63-2198-4915-94c9-25e7f8531a59': {
+        'paths': [
+            '/auction/v270/buyer/orders'],
+        'note': '',
+        'service_id': 'c9beb237-7e85-49b3-8561-0082fc8086ea'
+    },
+    'DELETE:34e1d2f6-d1f9-479a-9431-ce0c0dd8bff9': {
+        'paths': [
+            '/auction/v250/live_special/buy_order/delete'],
+        'note': '',
+        'service_id': 'c9beb237-7e85-49b3-8561-0082fc8086ea'
+    },
+    'GET:2bf329a1-2e45-471d-855c-cd49737f3db0': {
+        'paths': [
+            '/auction/v260/tea_room/user_info'],
+        'note': '',
+        'service_id': 'c9beb237-7e85-49b3-8561-0082fc8086ea'
+    },
+    'GET:41e27d00-67b0-4073-9f53-bb1e6dfe75c8': {
+        'paths': [
+            '/auction/v110/content_recommend/.*'],
+        'note': '',
+        'service_id': 'c9beb237-7e85-49b3-8561-0082fc8086ea'
+    },
+    'POST:51929fa7-abb7-41c3-91c9-65cc2d5f2236': {
+        'paths': [
+            '/auction/verify_code'],
+        'note': '',
+        'service_id': 'c9beb237-7e85-49b3-8561-0082fc8086ea'
+    },
+    'GET:2c16953a-c0dd-4ac6-8a5f-edc0e94c26fc': {
+        'paths': [
+            '/auction/live_special/v270/live_special_list'],
+        'note': '',
+        'service_id': 'c9beb237-7e85-49b3-8561-0082fc8086ea'
+    },
+    'POST:a5b21973-9777-4774-aee3-d460be8a4eb9': {
+        'paths': [
+            '/auction/v260/tea_room/tea_room_action'],
+        'note': '',
+        'service_id': 'c9beb237-7e85-49b3-8561-0082fc8086ea'
+    },
+    'POST:de64d964-ec5c-4782-b290-f73b1942c80d': {
+        'paths': [
+            '/auction/product_manage/v270/product_pay_callback'],
+        'note': '',
+        'service_id': 'c9beb237-7e85-49b3-8561-0082fc8086ea'
+    },
+    'GET:8dfb810c-fe15-4c1c-986c-e130c33d770b': {
+        'paths': [
+            '/auction/v251/message/my_questions'],
+        'note': '',
+        'service_id': 'c9beb237-7e85-49b3-8561-0082fc8086ea'
+    },
+    'POST:8bfea242-4205-4ad6-9052-66f1aa9c5a75': {
+        'paths': [
+            '/auction/v210/buy_sell/comment/level_1/auction'],
+        'note': '',
+        'service_id': 'c9beb237-7e85-49b3-8561-0082fc8086ea'
+    },
+    'GET:de124d18-c656-41f2-a277-570defda4053': {
+        'paths': [
+            '/auction/v240/questions_draft'],
+        'note': '',
+        'service_id': 'c9beb237-7e85-49b3-8561-0082fc8086ea'
+    },
+    'POST:57517687-75b3-4177-bb8d-42cb60ef920e': {
+        'paths': [
+            '/auction/v272/tea_room/task_post'],
+        'note': '',
+        'service_id': 'c9beb237-7e85-49b3-8561-0082fc8086ea'
+    },
+    'PUT:90e020fb-211b-4f6d-bb61-b4689e77bd38': {
+        'paths': [
+            '/auction/content_detail/.*'],
+        'note': '',
+        'service_id': 'c9beb237-7e85-49b3-8561-0082fc8086ea'
+    },
+    'GET:d8eb1a7d-1e2a-4ed4-8408-acca3f36ba1a': {
+        'paths': [
+            '/auction/v130/message/system_message'],
+        'note': '',
+        'service_id': 'c9beb237-7e85-49b3-8561-0082fc8086ea'
+    },
+    'POST:f2481cb1-d195-4825-a2ca-7fb491c57cd1': {
+        'paths': [
+            '/auction/v200/payment/wechat_callback_refund_pledge'],
+        'note': '',
+        'service_id': 'c9beb237-7e85-49b3-8561-0082fc8086ea'
+    },
+    'GET:ace53281-cd3d-4b79-b3f2-68f2728c57cb': {
+        'paths': [
+            '/auction/v221/buy_sell/pay_order/sell_wechat_pay_query'],
+        'note': '',
+        'service_id': 'c9beb237-7e85-49b3-8561-0082fc8086ea'
+    },
+    'GET:69248a75-3d58-4ae9-9025-b4b01d5b8a1a': {
+        'paths': [
+            '/auction/v1_0_12/find/content'],
+        'note': '',
+        'service_id': 'c9beb237-7e85-49b3-8561-0082fc8086ea'
+    },
+    'POST:de124d18-c656-41f2-a277-570defda4053': {
+        'paths': [
+            '/auction/v240/questions_draft'],
+        'note': '',
+        'service_id': 'c9beb237-7e85-49b3-8561-0082fc8086ea'
+    },
+    'POST:9bff05de-7bc3-4787-b29d-5e4e825bd1cc': {
+        'paths': [
+            '/auction/v221/buy_sell/about_sell/offer_sell/.*'],
+        'note': '',
+        'service_id': 'c9beb237-7e85-49b3-8561-0082fc8086ea'
+    },
+    'GET:7387538d-26f0-4560-a06c-9c4393bdd6c1': {
+        'paths': [
+            '/auction/v230/question/.*'],
+        'note': '',
+        'service_id': 'c9beb237-7e85-49b3-8561-0082fc8086ea'
+    },
+    'GET:f986dcea-bdeb-4f75-9829-50baafebd017': {
+        'paths': [
+            '/auction/v221/buy_sell/detail/.*'],
+        'note': '',
+        'service_id': 'c9beb237-7e85-49b3-8561-0082fc8086ea'
+    },
+    'GET:092e7d22-80b1-4210-b71a-a8f951b553f0': {
+        'paths': [
+            '/auction/v272/tea_room/index'],
+        'note': '',
+        'service_id': 'c9beb237-7e85-49b3-8561-0082fc8086ea'
+    },
+    'GET:d879d5b0-d00a-40f6-a4f2-a75dfed72d73': {
+        'paths': [
+            '/auction/v230/message/my_questions'],
+        'note': '',
+        'service_id': 'c9beb237-7e85-49b3-8561-0082fc8086ea'
+    },
+    'GET:7b753537-2a0d-4869-9626-e66767a933e0': {
+        'paths': [
+            '/auction/v273/content_detail/.*'],
+        'note': '',
+        'service_id': 'c9beb237-7e85-49b3-8561-0082fc8086ea'
+    },
+    'DELETE:8edd9ecf-2399-4516-a71c-b0dc8d66e3f6': {
+        'paths': [
+            '/auction/v221/buy_sell/sell_order/action'],
+        'note': '',
+        'service_id': 'c9beb237-7e85-49b3-8561-0082fc8086ea'
+    },
+    'GET:a8004b58-c8fc-4efd-9415-22b93b559524': {
+        'paths': [
+            '/auction/v221/buy_sell/about_sell/sell_search'],
+        'note': '',
+        'service_id': 'c9beb237-7e85-49b3-8561-0082fc8086ea'
+    },
+    'POST:1c5b8ab1-2502-45c2-9d70-1d1818b0833b': {
+        'paths': [
+            '/auction/v250/live_special/buy_order/receipt'],
+        'note': '',
+        'service_id': 'c9beb237-7e85-49b3-8561-0082fc8086ea'
+    },
+    'GET:480d491d-e666-45eb-8132-b1386a1677f1': {
+        'paths': [
+            '/auction/order/v150/order_details'],
+        'note': '',
+        'service_id': 'c9beb237-7e85-49b3-8561-0082fc8086ea'
+    },
+    'POST:02f0d250-6ac4-48f3-b8f2-0fa6f7326187': {
+        'paths': [
+            '/auction/live_special/v250/live_special_product_buy/.*'],
+        'note': '',
+        'service_id': 'c9beb237-7e85-49b3-8561-0082fc8086ea'
+    },
+    'POST:32eb4a38-914c-4920-98f4-56b8c73cb214': {
+        'paths': [
+            '/auction/v240/answers_comment/level_2/like'],
+        'note': '',
+        'service_id': 'c9beb237-7e85-49b3-8561-0082fc8086ea'
+    },
+    'POST:c528b005-ae40-4a3d-b692-96993b4eef2c': {
+        'paths': [
+            '/auction/order/action'],
+        'note': '',
+        'service_id': 'c9beb237-7e85-49b3-8561-0082fc8086ea'
+    },
+    'POST:bc544c5e-ba17-4d69-bb4a-a1b8a8b73275': {
+        'paths': [
+            '/auction/payment/buy_auction'],
+        'note': '',
+        'service_id': 'c9beb237-7e85-49b3-8561-0082fc8086ea'
+    },
+    'POST:65dbc716-2804-4585-98bf-66e1fcfbb7c0': {
+        'paths': [
+            '/auction/live_special/v250/live_special_product_attention/.*'],
+        'note': '',
+        'service_id': 'c9beb237-7e85-49b3-8561-0082fc8086ea'
+    },
+    'GET:e2792427-fc11-4ec6-8072-f6fccf5ad886': {
+        'paths': [
+            '/auction/v273/query_topic/status'],
+        'note': '',
+        'service_id': 'c9beb237-7e85-49b3-8561-0082fc8086ea'
+    },
+    'GET:c7a933f6-b401-4246-84e6-98416af92cc3': {
+        'paths': [
+            '/auction/v260/tea_room/his_users'],
+        'note': '',
+        'service_id': 'c9beb237-7e85-49b3-8561-0082fc8086ea'
+    },
+    'GET:fd94867e-ca54-47bf-94d6-d53aa5fc88c6': {
+        'paths': [
+            '/auction/live/v240/anchor_group'],
+        'note': '',
+        'service_id': 'c9beb237-7e85-49b3-8561-0082fc8086ea'
+    },
+    'GET:12552958-2ece-4a68-b3a3-5baf0aab1014': {
+        'paths': [
+            '/auction/v210/payment/auction/order_wechat_pay_query'],
+        'note': '',
+        'service_id': 'c9beb237-7e85-49b3-8561-0082fc8086ea'
+    },
+    'GET:1245d365-c777-41fb-bcbc-10c113ed2190': {
+        'paths': [
+            '/auction/v210/buy_sell/about_sell/prepare/.*'],
+        'note': '',
+        'service_id': 'c9beb237-7e85-49b3-8561-0082fc8086ea'
+    },
+    'POST:0f843719-4ac7-4e91-b41b-5503e445d858': {
+        'paths': [
+            '/auction/v210/buy_sell/about_sell/sell/.*'],
+        'note': '',
+        'service_id': 'c9beb237-7e85-49b3-8561-0082fc8086ea'
+    },
+    'GET:18f5780d-41bf-4d48-94eb-34424d92f6ca': {
+        'paths': [
+            '/auction/v210/buy_sell/query_sell_price'],
+        'note': '',
+        'service_id': 'c9beb237-7e85-49b3-8561-0082fc8086ea'
+    },
+    'POST:f01a411e-40d3-49dd-a719-9bde11109af1': {
+        'paths': [
+            '/auction/v210/buy_sell/collect'],
+        'note': '',
+        'service_id': 'c9beb237-7e85-49b3-8561-0082fc8086ea'
+    },
+    'POST:bd08aa9b-5ad6-43c5-8a85-729cf2668025': {
+        'paths': [
+            '/auction/v210/buy_sell/about_buy/buy/.*'],
+        'note': '',
+        'service_id': 'c9beb237-7e85-49b3-8561-0082fc8086ea'
+    },
+    'GET:8c79cd0a-2b3e-4707-9d4d-06a2d151d84b': {
+        'paths': [
+            '/auction/v150/attention_or_review/details/.*'],
+        'note': '',
+        'service_id': 'c9beb237-7e85-49b3-8561-0082fc8086ea'
+    },
+    'GET:bbe966ce-8682-4fc7-9c37-e5e37ab3cd54': {
+        'paths': [
+            '/auction/publish_content'],
+        'note': '',
+        'service_id': 'c9beb237-7e85-49b3-8561-0082fc8086ea'
+    },
+    'GET:1f5da3a9-6574-4e60-a880-947928e6668a': {
+        'paths': [
+            '/auction/order/v210/list'],
+        'note': '',
+        'service_id': 'c9beb237-7e85-49b3-8561-0082fc8086ea'
+    },
+    'POST:6f9c2ca4-b505-4e71-930b-964a497e6f14': {
+        'paths': [
+            '/auction/v210/buy_sell/sell_order/send_express'],
+        'note': '',
+        'service_id': 'c9beb237-7e85-49b3-8561-0082fc8086ea'
+    },
+    'GET:af056811-754c-41c7-9ee6-ca3e64df34be': {
+        'paths': [
+            '/auction/v260/tea_room/user_permisson'],
+        'note': '',
+        'service_id': 'c9beb237-7e85-49b3-8561-0082fc8086ea'
+    },
+    'GET:cd923d1f-c078-4bee-a199-ad832b546011': {
+        'paths': [
+            '/auction/v200/appoint_special_auction/.*'],
+        'note': '',
+        'service_id': 'c9beb237-7e85-49b3-8561-0082fc8086ea'
+    },
+    'GET:a031122c-7ce4-4a0d-8b27-d8df0d1ee0f5': {
+        'paths': [
+            '/auction/v270/buyer/order'],
+        'note': '',
+        'service_id': 'c9beb237-7e85-49b3-8561-0082fc8086ea'
+    },
+    'GET:d8b37a88-243a-478c-a62a-4db2ed77c4aa': {
+        'paths': [
+            '/auction/v210/buy_sell/about_sell/sell_list/.*'],
+        'note': '',
+        'service_id': 'c9beb237-7e85-49b3-8561-0082fc8086ea'
+    },
+    'GET:2f2d99bd-b3e8-4d0b-a8fb-443d7423e15e': {
+        'paths': [
+            '/auction/v222/content/query_high_content_notice'],
+        'note': '',
+        'service_id': 'c9beb237-7e85-49b3-8561-0082fc8086ea'
+    },
+    'GET:b1d3cd37-306b-436d-8a41-330933c7ad00': {
+        'paths': [
+            '/auction/addr_manage'],
+        'note': '',
+        'service_id': 'c9beb237-7e85-49b3-8561-0082fc8086ea'
+    },
+    'POST:86f47581-b870-4808-b2ab-d92d5c851730': {
+        'paths': [
+            '/auction/payment/wechat_callback_pay_pledge'],
+        'note': '',
+        'service_id': 'c9beb237-7e85-49b3-8561-0082fc8086ea'
+    },
+    'POST:738ae4b1-9739-4a5d-ba18-c428820df595': {
+        'paths': [
+            '/auction/v250/live_special/sell_order/refund_action'],
+        'note': '',
+        'service_id': 'c9beb237-7e85-49b3-8561-0082fc8086ea'
+    },
+    'GET:71104180-0a84-4083-89f7-82af3d483f02': {
+        'paths': [
+            '/auction/v270/personal_homepage'],
+        'note': '',
+        'service_id': 'c9beb237-7e85-49b3-8561-0082fc8086ea'
+    },
+    'POST:e08ae3d1-c200-4ee5-97d2-a6038a61605d': {
+        'paths': [
+            '/auction/kd_niao_callback'],
+        'note': '',
+        'service_id': 'c9beb237-7e85-49b3-8561-0082fc8086ea'
+    },
+    'GET:cc330a9a-3064-4830-b8b7-b0f0b4b6cbd7': {
+        'paths': [
+            '/auction/v251/message/questions_notice'],
+        'note': '',
+        'service_id': 'c9beb237-7e85-49b3-8561-0082fc8086ea'
+    },
+    'GET:3f182619-360b-41b5-bae5-e54185309da9': {
+        'paths': [
+            '/auction/content/official_communication'],
+        'note': '',
+        'service_id': 'c9beb237-7e85-49b3-8561-0082fc8086ea'
+    },
+    'GET:134f0887-c5cc-491b-ab55-2779ad6024f6': {
+        'paths': [
+            '/auction/v240/group_list'],
+        'note': '',
+        'service_id': 'c9beb237-7e85-49b3-8561-0082fc8086ea'
+    },
+    'GET:8469747a-12a4-43d0-8e15-cc1ad38af647': {
+        'paths': [
+            '/auction/location_city'],
+        'note': '',
+        'service_id': 'c9beb237-7e85-49b3-8561-0082fc8086ea'
+    },
+    'POST:7aa0b14a-9390-435b-946c-a0e7edb8b2a5': {
+        'paths': [
+            '/auction/v151/fission_share_record'],
+        'note': '',
+        'service_id': 'c9beb237-7e85-49b3-8561-0082fc8086ea'
+    },
+    'GET:135ec3a5-fe9f-4971-99ed-3723535c656b': {
+        'paths': [
+            '/auction/product_manage/v270/business/want2buy'],
+        'note': '',
+        'service_id': 'c9beb237-7e85-49b3-8561-0082fc8086ea'
+    },
+    'GET:d8942e75-af83-4134-96c6-2f935f01605c': {
+        'paths': [
+            '/auction/v271/every_day_special_auction'],
+        'note': '',
+        'service_id': 'c9beb237-7e85-49b3-8561-0082fc8086ea'
+    },
+    'GET:8de6e2c5-bf23-4eb9-9a01-532e2b813888': {
+        'paths': [
+            '/auction/user/fans_list'],
+        'note': '',
+        'service_id': 'c9beb237-7e85-49b3-8561-0082fc8086ea'
+    },
+    'GET:6da61c3f-cd2f-487c-a292-a1a9188094b2': {
+        'paths': [
+            '/auction/live/message'],
+        'note': '',
+        'service_id': 'c9beb237-7e85-49b3-8561-0082fc8086ea'
+    },
+    'GET:1539215a-3e38-4850-8662-3244fac45532': {
+        'paths': [
+            '/auction/v221/buy_sell/about_sell/prepare'],
+        'note': '',
+        'service_id': 'c9beb237-7e85-49b3-8561-0082fc8086ea'
+    },
+    'POST:4c5af43a-afeb-499a-8402-3b85c5f2d0a5': {
+        'paths': [
+            '/auction/live/share'],
+        'note': '',
+        'service_id': 'c9beb237-7e85-49b3-8561-0082fc8086ea'
+    },
+    'POST:387d5c2e-770d-4aa3-b409-76b4e65e1c29': {
+        'paths': [
+            '/auction/product_manage/v270/product/draft'],
+        'note': '',
+        'service_id': 'c9beb237-7e85-49b3-8561-0082fc8086ea'
+    },
+    'GET:5081270c-ca9d-4cf5-a7a4-d8b2f27820b4': {
+        'paths': [
+            '/auction/v221/buy_sell/about_sell/sell_wechat_pay_query'],
+        'note': '',
+        'service_id': 'c9beb237-7e85-49b3-8561-0082fc8086ea'
+    },
+    'POST:10e95fa4-23fa-4085-82e6-5e58e46b030c': {
+        'paths': [
+            '/auction/v260/tea_room/message'],
+        'note': '',
+        'service_id': 'c9beb237-7e85-49b3-8561-0082fc8086ea'
+    },
+    'GET:25135307-ab14-4738-811c-0c339959b9f0': {
+        'paths': [
+            '/auction/index_attention/list'],
+        'note': '',
+        'service_id': 'c9beb237-7e85-49b3-8561-0082fc8086ea'
+    },
+    'GET:a96e3306-4a0b-46e3-81e2-ff7ef2802e9b': {
+        'paths': [
+            '/auction/v210/buy_sell/about_buy/prepare/.*'],
+        'note': '',
+        'service_id': 'c9beb237-7e85-49b3-8561-0082fc8086ea'
+    },
+    'POST:ecc46d5c-27bf-4e0b-a666-e0b2b6d12a22': {
+        'paths': [
+            '/auction/v250/live_special/sell_order/send_express'],
+        'note': '',
+        'service_id': 'c9beb237-7e85-49b3-8561-0082fc8086ea'
+    },
+    'GET:eaa7f72a-82ea-473a-93a7-8d720928e8ee': {
+        'paths': [
+            '/auction/live_special/v250/ios/live_list'],
+        'note': '',
+        'service_id': 'c9beb237-7e85-49b3-8561-0082fc8086ea'
+    },
+    'GET:0946ca08-e0a1-4435-84cf-2617c59fde48': {
+        'paths': [
+            '/auction/v270/seller/orders'],
+        'note': '',
+        'service_id': 'c9beb237-7e85-49b3-8561-0082fc8086ea'
+    },
+    'POST:1c1b9d03-21b6-4232-b89d-64fd31ae57fb': {
+        'paths': [
+            '/auction/v260/tea_room/user_up'],
+        'note': '',
+        'service_id': 'c9beb237-7e85-49b3-8561-0082fc8086ea'
+    },
+    'POST:75cb1768-5532-4895-9c03-3758f54d71f2': {
+        'paths': [
+            '/auction/payment/pay_pledge'],
+        'note': '',
+        'service_id': 'c9beb237-7e85-49b3-8561-0082fc8086ea'
+    },
+    'GET:db6fee79-5acf-4b19-ae97-85dd2752b61d': {
+        'paths': [
+            '/auction/v240/content/red_bag_award_detail/.*'],
+        'note': '',
+        'service_id': 'c9beb237-7e85-49b3-8561-0082fc8086ea'
+    },
+    'GET:80d173b7-cab6-4fdf-8aec-7a7791008c63': {
+        'paths': [
+            '/auction/v220/comment/fast_reply'],
+        'note': '',
+        'service_id': 'c9beb237-7e85-49b3-8561-0082fc8086ea'
+    },
+    'GET:0bd6e50f-e7c7-40a0-9c14-3d92b8045a3a': {
+        'paths': [
+            '/auction/live_special/v260/product/publish_info'],
+        'note': '',
+        'service_id': 'c9beb237-7e85-49b3-8561-0082fc8086ea'
+    },
+    'GET:0a270bd7-0447-44b2-bf97-a2ba2f8266e9': {
+        'paths': [
+            '/auction/V245/buy_sell/get_status'],
+        'note': '',
+        'service_id': 'c9beb237-7e85-49b3-8561-0082fc8086ea'
+    },
+    'GET:59274300-9c6c-428a-8837-22a0c2deb359': {
+        'paths': [
+            '/auction/v255/comment/level_1/list/.*'],
+        'note': '',
+        'service_id': 'c9beb237-7e85-49b3-8561-0082fc8086ea'
+    },
+    'GET:9790d0ed-aad7-4933-9c85-504425c87b44': {
+        'paths': [
+            '/auction/live_special/v250/product_detail/.*'],
+        'note': '',
+        'service_id': 'c9beb237-7e85-49b3-8561-0082fc8086ea'
+    },
+    'GET:eec0d3e3-d5b1-49b0-bbc1-c99f68e699d2': {
+        'paths': [
+            '/auction/v270/seller/tail'],
+        'note': '',
+        'service_id': 'c9beb237-7e85-49b3-8561-0082fc8086ea'
+    },
+    'GET:895502cb-2092-44bf-9a8c-4941f0542350': {
+        'paths': [
+            '/auction/v240/content/draft'],
+        'note': '',
+        'service_id': 'c9beb237-7e85-49b3-8561-0082fc8086ea'
+    },
+    'POST:03b909ea-f755-4bc8-9a91-138c3019e2ab': {
+        'paths': [
+            '/auction/v270/seller/shipments'],
+        'note': '',
+        'service_id': 'c9beb237-7e85-49b3-8561-0082fc8086ea'
+    },
+    'POST:69911d8c-3507-419c-9fde-a9b78762bd9b': {
+        'paths': [
+            '/auction/wechat_form'],
+        'note': '',
+        'service_id': 'c9beb237-7e85-49b3-8561-0082fc8086ea'
+    },
+    'POST:af265e3d-e9fe-419e-b222-9e36c13d4276': {
+        'paths': [
+            '/auction/v200/payment/wechat_callback_pay_pledge'],
+        'note': '',
+        'service_id': 'c9beb237-7e85-49b3-8561-0082fc8086ea'
+    },
+    'POST:129c5b56-376c-4f34-9ae9-8996782bbc1d': {
+        'paths': [
+            '/auction/v260/tea_room/voice_on_off'],
+        'note': '',
+        'service_id': 'c9beb237-7e85-49b3-8561-0082fc8086ea'
+    },
+    'POST:5e2637ba-c983-4bf9-a298-b2fefe375ab7': {
+        'paths': [
+            '/auction/v221/buy_sell/receipt'],
+        'note': '',
+        'service_id': 'c9beb237-7e85-49b3-8561-0082fc8086ea'
+    },
+    'GET:12e9463b-dd3a-46bb-a8de-21526a49eaa6': {
+        'paths': [
+            '/auction/v210/buy_sell/query_terrace_addr'],
+        'note': '',
+        'service_id': 'c9beb237-7e85-49b3-8561-0082fc8086ea'
+    },
+    'POST:cbf8839c-9ceb-45db-a5e4-023345a92b86': {
+        'paths': [
+            '/auction/v200/payment/buy_auction'],
+        'note': '',
+        'service_id': 'c9beb237-7e85-49b3-8561-0082fc8086ea'
+    },
+    'GET:06fff21d-4eeb-4f74-9312-74961eecb5ca': {
+        'paths': [
+            '/auction/v221/buy_sell/home'],
+        'note': '',
+        'service_id': 'c9beb237-7e85-49b3-8561-0082fc8086ea'
+    },
+    'POST:74719529-73cb-475c-aa48-933c620ed4a4': {
+        'paths': [
+            '/auction/live_special/v250/ios/verify_code'],
+        'note': '',
+        'service_id': 'c9beb237-7e85-49b3-8561-0082fc8086ea'
+    },
+    'GET:2d938ff2-78ef-462b-a6bc-1345f91e1b38': {
+        'paths': [
+            '/auction/v272/tea_room/personal_imgs'],
+        'note': '',
+        'service_id': 'c9beb237-7e85-49b3-8561-0082fc8086ea'
+    },
+    'GET:7df68a4f-7c58-42b5-b1b9-8b87e3e266f2': {
+        'paths': [
+            '/auction/product_manage/v270/business/home'],
+        'note': '',
+        'service_id': 'c9beb237-7e85-49b3-8561-0082fc8086ea'
+    },
+    'GET:ef002198-b986-4de6-94c0-6728e42145c5': {
+        'paths': [
+            '/auction/v131/user/card_pop'],
+        'note': '',
+        'service_id': 'c9beb237-7e85-49b3-8561-0082fc8086ea'
+    },
+    'PUT:9790d0ed-aad7-4933-9c85-504425c87b44': {
+        'paths': [
+            '/auction/live_special/v250/product_detail/.*'],
+        'note': '',
+        'service_id': 'c9beb237-7e85-49b3-8561-0082fc8086ea'
+    },
+    'POST:8a69995e-25c2-44c3-8c6a-eb75f4a3c338': {
+        'paths': [
+            '/auction/v210/payment/buy_auction'],
+        'note': '',
+        'service_id': 'c9beb237-7e85-49b3-8561-0082fc8086ea'
+    },
+    'GET:02f0d250-6ac4-48f3-b8f2-0fa6f7326187': {
+        'paths': [
+            '/auction/live_special/v250/live_special_product_buy/.*'],
+        'note': '',
+        'service_id': 'c9beb237-7e85-49b3-8561-0082fc8086ea'
+    },
+    'POST:da365327-e572-4795-a798-0b8e81f8bb72': {
+        'paths': [
+            '/auction/v204/goods/upload_map_image'],
+        'note': '',
+        'service_id': 'c9beb237-7e85-49b3-8561-0082fc8086ea'
+    },
+    'GET:0b1804ca-9e47-4c8b-a2f2-6d9fa63d9ad9': {
+        'paths': [
+            '/auction/v254/week_and_month_rank'],
+        'note': '',
+        'service_id': 'c9beb237-7e85-49b3-8561-0082fc8086ea'
+    },
+    'GET:b41c20bf-9d6c-438c-8f81-43b1afd5569a': {
+        'paths': [
+            '/auction/order/v210/detail/.*'],
+        'note': '',
+        'service_id': 'c9beb237-7e85-49b3-8561-0082fc8086ea'
+    },
+    'GET:b6041441-2cd6-43cb-b901-f55464b29a1f': {
+        'paths': [
+            '/auction/v140/content/content_record/.*'],
+        'note': '',
+        'service_id': 'c9beb237-7e85-49b3-8561-0082fc8086ea'
+    },
+    'GET:cba07dbb-0ab3-47ab-9ca4-8418066185a0': {
+        'paths': [
+            '/auction/v242/group_info/.*'],
+        'note': '',
+        'service_id': 'c9beb237-7e85-49b3-8561-0082fc8086ea'
+    },
+    'GET:fb1a623e-765d-44ae-8299-dfa2746a5b59': {
+        'paths': [
+            '/auction/v131/special_auction/index'],
+        'note': '',
+        'service_id': 'c9beb237-7e85-49b3-8561-0082fc8086ea'
+    },
+    'POST:e6bb37c2-d2ac-4adf-ab63-c14b8c3722fa': {
+        'paths': [
+            '/auction/product_manage/v270/im/send'],
+        'note': '',
+        'service_id': 'c9beb237-7e85-49b3-8561-0082fc8086ea'
+    },
+    'GET:6be4d78b-1b4f-47de-95b5-95568a03b6f7': {
+        'paths': [
+            '/auction/like_content'],
+        'note': '',
+        'service_id': 'c9beb237-7e85-49b3-8561-0082fc8086ea'
+    },
+    'POST:b1d3cd37-306b-436d-8a41-330933c7ad00': {
+        'paths': [
+            '/auction/addr_manage'],
+        'note': '',
+        'service_id': 'c9beb237-7e85-49b3-8561-0082fc8086ea'
+    },
+    'GET:a215fcc6-b02e-40c1-a545-e69bc37b341a': {
+        'paths': [
+            '/auction/live/v204/prize_details/.*'],
+        'note': '',
+        'service_id': 'c9beb237-7e85-49b3-8561-0082fc8086ea'
+    },
+    'GET:f618ca42-e054-4d81-8003-65fb54ad74b3': {
+        'paths': [
+            '/auction/v221/buy_sell/my_sell'],
+        'note': '',
+        'service_id': 'c9beb237-7e85-49b3-8561-0082fc8086ea'
+    },
+    'DELETE:90e020fb-211b-4f6d-bb61-b4689e77bd38': {
+        'paths': [
+            '/auction/content_detail/.*'],
+        'note': '',
+        'service_id': 'c9beb237-7e85-49b3-8561-0082fc8086ea'
+    },
+    'GET:363e6640-d5d5-4d82-aa8e-63b015f27d88': {
+        'paths': [
+            '/auction/zego/access_token'],
+        'note': '',
+        'service_id': 'c9beb237-7e85-49b3-8561-0082fc8086ea'
+    },
+    'POST:4aab3d04-8f73-49cf-ad71-284c96e60044': {
+        'paths': [
+            '/auction/comment/level_1/auction'],
+        'note': '',
+        'service_id': 'c9beb237-7e85-49b3-8561-0082fc8086ea'
+    },
+    'POST:dccb5ff7-c86f-4dcd-ab68-8c4df9da4bc4': {
+        'paths': [
+            '/auction/product_shoot'],
+        'note': '',
+        'service_id': 'c9beb237-7e85-49b3-8561-0082fc8086ea'
+    },
+    'GET:de4b8168-e724-4dce-83e8-97766c0bc628': {
+        'paths': [
+            '/auction/v221/buy_sell/sell_order/list'],
+        'note': '',
+        'service_id': 'c9beb237-7e85-49b3-8561-0082fc8086ea'
+    },
+    'GET:ef3b8d56-8bd6-48bf-b486-98cab5bb2784': {
+        'paths': [
+            '/auction/v210/buy_sell/my_sell'],
+        'note': '',
+        'service_id': 'c9beb237-7e85-49b3-8561-0082fc8086ea'
+    },
+    'GET:4c2beb21-42c3-4d66-b22a-4c5817021c82': {
+        'paths': [
+            '/auction/location_content'],
+        'note': '',
+        'service_id': 'c9beb237-7e85-49b3-8561-0082fc8086ea'
+    },
+    'GET:cad93ac8-40dc-4bf5-8b73-bf4d0d49c76d': {
+        'paths': [
+            '/auction/product_manage/v270/product_pay_query'],
+        'note': '',
+        'service_id': 'c9beb237-7e85-49b3-8561-0082fc8086ea'
+    },
+    'GET:49dff6d0-9313-47b7-ac42-92867f5aa9b1': {
+        'paths': [
+            '/auction/v210/buy_sell/buy_list/.*'],
+        'note': '',
+        'service_id': 'c9beb237-7e85-49b3-8561-0082fc8086ea'
+    },
+    'POST:39b21ac4-4a8e-44f8-aa72-dd8626d56cc7': {
+        'paths': [
+            '/auction/order/v150/refund'],
+        'note': '',
+        'service_id': 'c9beb237-7e85-49b3-8561-0082fc8086ea'
+    },
+    'POST:4676f44e-1f62-4150-927f-cc73f509f07d': {
+        'paths': [
+            '/auction/v210/buy_sell/share'],
+        'note': '',
+        'service_id': 'c9beb237-7e85-49b3-8561-0082fc8086ea'
+    },
+    'GET:8ea31a78-cbb8-4149-b5c8-347c32d4af86': {
+        'paths': [
+            '/auction/v230/question_answer/answers/list'],
+        'note': '',
+        'service_id': 'c9beb237-7e85-49b3-8561-0082fc8086ea'
+    },
+    'POST:895502cb-2092-44bf-9a8c-4941f0542350': {
+        'paths': [
+            '/auction/v240/content/draft'],
+        'note': '',
+        'service_id': 'c9beb237-7e85-49b3-8561-0082fc8086ea'
+    },
+    'POST:fe5df974-d878-47e0-a4ae-c3da2a43ca93': {
+        'paths': [
+            '/auction/content/share/.*'],
+        'note': '',
+        'service_id': 'c9beb237-7e85-49b3-8561-0082fc8086ea'
+    },
+    'GET:2320d135-7506-42e8-b425-5e568e8d1a90': {
+        'paths': [
+            '/auction/v260/tea_room/index'],
+        'note': '',
+        'service_id': 'c9beb237-7e85-49b3-8561-0082fc8086ea'
+    },
+    'POST:8ba77f00-f1eb-4dd4-87be-64d8cc349fe7': {
+        'paths': [
+            '/auction/product_manage/v270/product/publish'],
+        'note': '',
+        'service_id': 'c9beb237-7e85-49b3-8561-0082fc8086ea'
+    },
+    'GET:af422114-0231-4a2e-b3e2-511ed6919817': {
+        'paths': [
+            '/auction/live_special/v253/commerce_history_info'],
+        'note': '',
+        'service_id': 'c9beb237-7e85-49b3-8561-0082fc8086ea'
+    },
+    'DELETE:942e205c-50fc-44d2-a6cd-f6dea67db133': {
+        'paths': [
+            '/auction/v250/live_special/sell_order/delete'],
+        'note': '',
+        'service_id': 'c9beb237-7e85-49b3-8561-0082fc8086ea'
+    },
+    'GET:50d05654-3c44-43d8-a5bf-04d2f4128b1d': {
+        'paths': [
+            '/auction/v261/auction_index'],
+        'note': '',
+        'service_id': 'c9beb237-7e85-49b3-8561-0082fc8086ea'
+    },
+    'POST:aab15156-4591-4537-81c9-f7662e3b941a': {
+        'paths': [
+            '/auction/v221/buy_sell/about_sell/sell_wechat_callback_pay_pledge'],
+        'note': '',
+        'service_id': 'c9beb237-7e85-49b3-8561-0082fc8086ea'
+    },
+    'POST:679e6bf1-36d4-4cdd-9945-b0711bb550eb': {
+        'paths': [
+            '/auction/v260/tea_room/upload_img'],
+        'note': '',
+        'service_id': 'c9beb237-7e85-49b3-8561-0082fc8086ea'
+    },
+    'POST:21f3220d-d511-4711-a0bd-9610c85db5c1': {
+        'paths': [
+            '/auction/product_manage/v270/cancel_order/.*'],
+        'note': '',
+        'service_id': 'c9beb237-7e85-49b3-8561-0082fc8086ea'
+    },
+    'PUT:3473a4ca-3991-4d9a-b2e4-9ab5ef68c12f': {
+        'paths': [
+            '/auction/v240/group_info/edit'],
+        'note': '',
+        'service_id': 'c9beb237-7e85-49b3-8561-0082fc8086ea'
+    },
+    'POST:3aa1d1eb-20cb-449c-9093-39f8dc1a35e2': {
+        'paths': [
+            '/auction/v210/buy_sell/comment/level_2/auction'],
+        'note': '',
+        'service_id': 'c9beb237-7e85-49b3-8561-0082fc8086ea'
+    },
+    'POST:67551e8e-73e7-46dd-9a68-5d0cc8ba02a6': {
+        'paths': [
+            '/auction/v210/buy_sell/receipt'],
+        'note': '',
+        'service_id': 'c9beb237-7e85-49b3-8561-0082fc8086ea'
+    },
+    'POST:a3f93447-2635-48bb-a5bf-d5147bc9dd6d': {
+        'paths': [
+            '/auction/v259/im/black_user_action'],
+        'note': '',
+        'service_id': 'c9beb237-7e85-49b3-8561-0082fc8086ea'
+    },
+    'POST:7a3a6274-ea04-4dbe-9873-331aee5e1cd0': {
+        'paths': [
+            '/auction/v221/buy_sell/about_sell/publish_sell'],
+        'note': '',
+        'service_id': 'c9beb237-7e85-49b3-8561-0082fc8086ea'
+    },
+    'GET:90191677-8922-4d73-9549-5e49f4e058ef': {
+        'paths': [
+            '/auction/comment/level_2/list/.*'],
+        'note': '',
+        'service_id': 'c9beb237-7e85-49b3-8561-0082fc8086ea'
+    },
+    'GET:fdfdc95e-8e40-4477-a9ba-06ab0fe32e8c': {
+        'paths': [
+            '/auction/v210/buy_sell/sell_order/detail/.*'],
+        'note': '',
+        'service_id': 'c9beb237-7e85-49b3-8561-0082fc8086ea'
+    },
+    'GET:a2d0c949-8105-43b4-bbc8-98251a8cc262': {
+        'paths': [
+            '/auction/v210/buy_sell/home'],
+        'note': '',
+        'service_id': 'c9beb237-7e85-49b3-8561-0082fc8086ea'
+    },
+    'GET:7d0f765f-b53b-4374-bb6c-240881af3edd': {
+        'paths': [
+            '/auction/v240/answers_comment/level_2/list/.*'],
+        'note': '',
+        'service_id': 'c9beb237-7e85-49b3-8561-0082fc8086ea'
+    },
+    'GET:2cd6536d-38d8-4715-9c46-4fc78e7c1476': {
+        'paths': [
+            '/auction/v210/buy_sell/my_buy/detail/.*'],
+        'note': '',
+        'service_id': 'c9beb237-7e85-49b3-8561-0082fc8086ea'
+    },
+    'GET:d074104e-7ac8-43f0-b1fd-cd7a93023198': {
+        'paths': [
+            '/auction/live_special/v250/commerce_time'],
+        'note': '',
+        'service_id': 'c9beb237-7e85-49b3-8561-0082fc8086ea'
+    },
+    'POST:89c23436-ef56-4245-8c3b-3229941735b7': {
+        'paths': [
+            '/auction/payment/real_pay_pledge'],
+        'note': '',
+        'service_id': 'c9beb237-7e85-49b3-8561-0082fc8086ea'
+    },
+    'GET:e7521bf3-cc08-4ac2-9a84-62234df890f7': {
+        'paths': [
+            '/auction/v210/message/market_quotation'],
+        'note': '',
+        'service_id': 'c9beb237-7e85-49b3-8561-0082fc8086ea'
+    },
+    'POST:bbefa190-d737-410d-90a9-ced5ae09a039': {
+        'paths': [
+            '/auction/v240/add_group'],
+        'note': '',
+        'service_id': 'c9beb237-7e85-49b3-8561-0082fc8086ea'
+    },
+    'GET:9f9ddcb3-9f0e-48bb-9739-62ebea5a041f': {
+        'paths': [
+            '/auction/v255/system_notice/.*'],
+        'note': '',
+        'service_id': 'c9beb237-7e85-49b3-8561-0082fc8086ea'
+    },
+    'GET:6ad83256-68fc-4681-a016-1800fd7a26a7': {
+        'paths': [
+            '/auction/live_special/v250/live/info'],
+        'note': '',
+        'service_id': 'c9beb237-7e85-49b3-8561-0082fc8086ea'
+    },
+    'PUT:b1d3cd37-306b-436d-8a41-330933c7ad00': {
+        'paths': [
+            '/auction/addr_manage'],
+        'note': '',
+        'service_id': 'c9beb237-7e85-49b3-8561-0082fc8086ea'
+    },
+    'DELETE:2d938ff2-78ef-462b-a6bc-1345f91e1b38': {
+        'paths': [
+            '/auction/v272/tea_room/personal_imgs'],
+        'note': '',
+        'service_id': 'c9beb237-7e85-49b3-8561-0082fc8086ea'
+    },
+    'POST:299064d0-f8c8-4a56-b983-3c5499a04d1a': {
+        'paths': [
+            '/auction/v223/buy_sell/sell_attention'],
+        'note': '',
+        'service_id': 'c9beb237-7e85-49b3-8561-0082fc8086ea'
+    },
+    'GET:f95e91c4-b1ac-4a8e-ae3f-15444784485f': {
+        'paths': [
+            '/auction/v220/hall_fame'],
+        'note': '',
+        'service_id': 'c9beb237-7e85-49b3-8561-0082fc8086ea'
+    },
+    'GET:ed736338-109d-4ed7-bf92-99e868b0a5f6': {
+        'paths': [
+            '/auction/v255/content_recommend/.*'],
+        'note': '',
+        'service_id': 'c9beb237-7e85-49b3-8561-0082fc8086ea'
+    },
+    'GET:8993b020-c71a-4756-84b5-c57e12023014': {
+        'paths': [
+            '/auction/v210/buy_sell/order_refund'],
+        'note': '',
+        'service_id': 'c9beb237-7e85-49b3-8561-0082fc8086ea'
+    },
+    'GET:2954de98-4486-4073-ab2f-7993015d0260': {
+        'paths': [
+            '/auction/live_special/v270/live_info'],
+        'note': '',
+        'service_id': 'c9beb237-7e85-49b3-8561-0082fc8086ea'
+    },
+    'GET:dde5255f-0c7b-4f3c-904f-14ad4c80f17d': {
+        'paths': [
+            '/auction/message/recent_visit'],
+        'note': '',
+        'service_id': 'c9beb237-7e85-49b3-8561-0082fc8086ea'
+    },
+    'GET:45b48846-5424-49ac-90bb-9b96890a61c7': {
+        'paths': [
+            '/auction/v210/buy_sell/deal_back/.*'],
+        'note': '',
+        'service_id': 'c9beb237-7e85-49b3-8561-0082fc8086ea'
+    },
+    'GET:38b41251-a76d-4921-b1b5-bc7d1a9e277c': {
+        'paths': [
+            '/auction/v220/viewpoint_content_detail/.*'],
+        'note': '',
+        'service_id': 'c9beb237-7e85-49b3-8561-0082fc8086ea'
+    },
+    'GET:b43f26f8-4234-4c5a-8259-9d136ea20a64': {
+        'paths': [
+            '/auction/message/comment_reply_list'],
+        'note': '',
+        'service_id': 'c9beb237-7e85-49b3-8561-0082fc8086ea'
+    },
+    'POST:056d24cf-6ae7-446b-ba65-884a00c906d2': {
+        'paths': [
+            '/auction/v260/tea_room/user_down'],
+        'note': '',
+        'service_id': 'c9beb237-7e85-49b3-8561-0082fc8086ea'
+    },
+    'PUT:004a7944-2ba2-469b-9ebc-4a55efb9ea23': {
+        'paths': [
+            '/auction/live_special/v250/commerce_detail/.*'],
+        'note': '',
+        'service_id': 'c9beb237-7e85-49b3-8561-0082fc8086ea'
+    },
+    'POST:44c8e240-4186-46d0-b21e-7e7856c745ec': {
+        'paths': [
+            '/auction/product_manage/v270/product_dicker/.*'],
+        'note': '',
+        'service_id': 'c9beb237-7e85-49b3-8561-0082fc8086ea'
+    },
+    'GET:b745f823-a848-4770-bb81-1865b452f91d': {
+        'paths': [
+            '/auction/v230/question_answer/.*'],
+        'note': '',
+        'service_id': 'c9beb237-7e85-49b3-8561-0082fc8086ea'
+    },
+    'POST:7adf4679-90db-41d7-9351-62361e5e87d2': {
+        'paths': [
+            '/auction/v210/buy_sell/like'],
+        'note': '',
+        'service_id': 'c9beb237-7e85-49b3-8561-0082fc8086ea'
+    },
+    'POST:8b41d7ba-0bd0-42f5-999a-c50592dcb9c4': {
+        'paths': [
+            '/auction/v221/buy_sell/order_refund'],
+        'note': '',
+        'service_id': 'c9beb237-7e85-49b3-8561-0082fc8086ea'
+    },
+    'GET:6049a8e4-4d1d-44ec-af07-3a2ff2ff0d58': {
+        'paths': [
+            '/auction/v270/query_addr'],
+        'note': '',
+        'service_id': 'c9beb237-7e85-49b3-8561-0082fc8086ea'
+    },
+    'GET:308940b6-0d29-4d40-8ebc-933d053777c2': {
+        'paths': [
+            '/auction/v120/appoint_special_auction/.*'],
+        'note': '',
+        'service_id': 'c9beb237-7e85-49b3-8561-0082fc8086ea'
+    },
+    'GET:4aab875c-3d5e-4234-a472-c5ceb24723ef': {
+        'paths': [
+            '/auction/v131/appoint_special_auction/.*'],
+        'note': '',
+        'service_id': 'c9beb237-7e85-49b3-8561-0082fc8086ea'
+    },
+    'GET:4f4217b5-39ce-4e50-8f39-13da8732d6be': {
+        'paths': [
+            '/auction/v240/group_info/.*'],
+        'note': '',
+        'service_id': 'c9beb237-7e85-49b3-8561-0082fc8086ea'
+    },
+    'GET:1e578d1f-87d0-4d7c-9bf0-1ba3e5daf3d4': {
+        'paths': [
+            '/auction/v210/buy_sell/get_status'],
+        'note': '',
+        'service_id': 'c9beb237-7e85-49b3-8561-0082fc8086ea'
+    },
+    'POST:d89d9a0b-b322-46c6-9641-f1fdb91abba8': {
+        'paths': [
+            '/auction/user/user_attention_action'],
+        'note': '',
+        'service_id': 'c9beb237-7e85-49b3-8561-0082fc8086ea'
+    },
+    'GET:b65d44e3-bc9e-4b06-b3aa-6e258660af68': {
+        'paths': [
+            '/auction/live_special/v250/live_special_product_pay_query'],
+        'note': '',
+        'service_id': 'c9beb237-7e85-49b3-8561-0082fc8086ea'
+    },
+    'GET:79333b6e-3d8a-4f1d-a0f7-2e783bd3a2bb': {
+        'paths': [
+            '/auction/v221/buy_sell/about_sell/sell_search'],
+        'note': '',
+        'service_id': 'c9beb237-7e85-49b3-8561-0082fc8086ea'
+    },
+    'POST:a7ebbffb-c883-4df0-9973-188546591a1c': {
+        'paths': [
+            '/auction/payment/wechat_callback_refund_pledge'],
+        'note': '',
+        'service_id': 'c9beb237-7e85-49b3-8561-0082fc8086ea'
+    },
+    'GET:b2f1910a-9386-444e-8013-55b5ebe41be9': {
+        'paths': [
+            '/auction/v273/follow_content'],
+        'note': '',
+        'service_id': 'c9beb237-7e85-49b3-8561-0082fc8086ea'
+    },
+    'GET:6e9dc1d2-8e18-4638-b243-bca05859685e': {
+        'paths': [
+            '/auction/v260/tea_room/user_current_rea_room'],
+        'note': '',
+        'service_id': 'c9beb237-7e85-49b3-8561-0082fc8086ea'
+    },
+    'GET:e0c77205-58bd-4147-8847-fe2aa40562d6': {
+        'paths': [
+            '/auction/order/v204/prize_order_details'],
+        'note': '',
+        'service_id': 'c9beb237-7e85-49b3-8561-0082fc8086ea'
+    },
+    'DELETE:2cd6536d-38d8-4715-9c46-4fc78e7c1476': {
+        'paths': [
+            '/auction/v210/buy_sell/my_buy/detail/.*'],
+        'note': '',
+        'service_id': 'c9beb237-7e85-49b3-8561-0082fc8086ea'
+    },
+    'PUT:9bde5c24-5d15-4c2b-8ddf-be670645b12c': {
+        'paths': [
+            '/auction/v210/buy_sell/about_sell/my_sell/.*'],
+        'note': '',
+        'service_id': 'c9beb237-7e85-49b3-8561-0082fc8086ea'
+    },
+    'GET:4cd54be7-6f49-435b-b9a6-250458a2f194': {
+        'paths': [
+            '/auction/product_manage/v270/product_detail/.*'],
+        'note': '',
+        'service_id': 'c9beb237-7e85-49b3-8561-0082fc8086ea'
+    },
+    'GET:8f91ecab-71af-4056-9c0e-f82b1f428399': {
+        'paths': [
+            '/auction/live_special/v250/live_special_product/.*'],
+        'note': '',
+        'service_id': 'c9beb237-7e85-49b3-8561-0082fc8086ea'
+    },
+    'POST:7ee78f0d-d895-44fa-bfb0-c0728b6262d8': {
+        'paths': [
+            '/auction/v204/payment/buy_prize'],
+        'note': '',
+        'service_id': 'c9beb237-7e85-49b3-8561-0082fc8086ea'
+    },
+    'POST:aeeba61a-eb46-4451-877d-ea1b7b16a82a': {
+        'paths': [
+            '/auction/payment/wechat_pay_pledge'],
+        'note': '',
+        'service_id': 'c9beb237-7e85-49b3-8561-0082fc8086ea'
+    },
+    'GET:6c0b9a50-8d71-4a76-ab24-2136c1e7de59': {
+        'paths': [
+            '/auction/past_review/list'],
+        'note': '',
+        'service_id': 'c9beb237-7e85-49b3-8561-0082fc8086ea'
+    },
+    'POST:8213f377-a440-4654-81ba-ae4ed30fd6c3': {
+        'paths': [
+            '/auction/live_special/v250/live_special_user_enter'],
+        'note': '',
+        'service_id': 'c9beb237-7e85-49b3-8561-0082fc8086ea'
+    },
+    'POST:266e400c-864f-4bc1-9b67-ff4deb5d45ad': {
+        'paths': [
+            '/auction/im_live_special/send'],
+        'note': '',
+        'service_id': 'c9beb237-7e85-49b3-8561-0082fc8086ea'
+    },
+    'GET:6b4ebc5c-5c56-49dc-83c7-5bd374dcd94f': {
+        'paths': [
+            '/auction/v220/high_quality_content'],
+        'note': '',
+        'service_id': 'c9beb237-7e85-49b3-8561-0082fc8086ea'
+    },
+    'DELETE:b1d3cd37-306b-436d-8a41-330933c7ad00': {
+        'paths': [
+            '/auction/addr_manage'],
+        'note': '',
+        'service_id': 'c9beb237-7e85-49b3-8561-0082fc8086ea'
+    },
+    'PUT:73130733-a5e8-44fa-93a4-c72f6787fd2b': {
+        'paths': [
+            '/auction/location_modification'],
+        'note': '',
+        'service_id': 'c9beb237-7e85-49b3-8561-0082fc8086ea'
+    },
+    'POST:745c9ac0-4274-4b2d-8088-34fedbff4cc9': {
+        'paths': [
+            '/auction/v250/live_special/sell_order/refund_price'],
+        'note': '',
+        'service_id': 'c9beb237-7e85-49b3-8561-0082fc8086ea'
+    },
+    'POST:ded931c4-7232-41da-b932-3e6646101d62': {
+        'paths': [
+            '/auction/live_special/v250/live_special_product_pay/.*'],
+        'note': '',
+        'service_id': 'c9beb237-7e85-49b3-8561-0082fc8086ea'
+    },
+    'GET:61df8599-686b-4f9b-9da0-328a29b1a8f3': {
+        'paths': [
+            '/auction/v210/buy_sell/new_sell_buy'],
+        'note': '',
+        'service_id': 'c9beb237-7e85-49b3-8561-0082fc8086ea'
+    },
+    'PUT:6b3074d9-83a6-4540-af7f-cdaeda7d54ee': {
+        'paths': [
+            '/auction/cron/past_pay'],
+        'note': '',
+        'service_id': 'c9beb237-7e85-49b3-8561-0082fc8086ea'
+    },
+    'GET:5bae115e-85c1-47c3-9ce2-55eb60453498': {
+        'paths': [
+            '/auction/v242/message/invitation_answer'],
+        'note': '',
+        'service_id': 'c9beb237-7e85-49b3-8561-0082fc8086ea'
+    },
+    'GET:e6b22448-c9b6-4dcb-a340-79ec8af7ca98': {
+        'paths': [
+            '/auction/v259/im/black_user_list'],
+        'note': '',
+        'service_id': 'c9beb237-7e85-49b3-8561-0082fc8086ea'
+    },
+    'GET:ef121380-2554-4479-a6be-69d98795158d': {
+        'paths': [
+            '/auction/live_special/v270/ios/live_list'],
+        'note': '',
+        'service_id': 'c9beb237-7e85-49b3-8561-0082fc8086ea'
+    },
+    'GET:405c1610-65ed-494f-b22b-f95f0b4e0e08': {
+        'paths': [
+            '/auction/user_info'],
+        'note': '',
+        'service_id': 'c9beb237-7e85-49b3-8561-0082fc8086ea'
+    },
+    'GET:1319f2b3-a799-4dcb-9626-26c80cf861fd': {
+        'paths': [
+            '/auction/im_live_special/friend_list'],
+        'note': '',
+        'service_id': 'c9beb237-7e85-49b3-8561-0082fc8086ea'
+    },
+    'POST:8525bc42-b6cb-42dc-9129-e33133cde495': {
+        'paths': [
+            '/auction/v255/comment_open_close'],
+        'note': '',
+        'service_id': 'c9beb237-7e85-49b3-8561-0082fc8086ea'
+    },
+    'GET:46729272-af57-419e-a664-774ccef4f7f9': {
+        'paths': [
+            '/auction/topic'],
+        'note': '',
+        'service_id': 'c9beb237-7e85-49b3-8561-0082fc8086ea'
+    },
+    'POST:233744cc-c57e-4cce-9b67-80df8acdc235': {
+        'paths': [
+            '/auction/v230/question_answer/answers/applaud_oppose'],
+        'note': '',
+        'service_id': 'c9beb237-7e85-49b3-8561-0082fc8086ea'
+    },
+    'POST:490dc9bc-0763-4724-bcf2-7d1adb35c14f': {
+        'paths': [
+            '/auction/live_special/v250/commerce'],
+        'note': '',
+        'service_id': 'c9beb237-7e85-49b3-8561-0082fc8086ea'
+    },
+    'GET:f262f354-cac7-4abf-ba8b-3f0d7ff6ad5d': {
+        'paths': [
+            '/auction/order'],
+        'note': '',
+        'service_id': 'c9beb237-7e85-49b3-8561-0082fc8086ea'
+    },
+    'GET:d92f5181-135e-4aef-bd31-ed0d856590e9': {
+        'paths': [
+            '/auction/v220/viewpoint_content'],
+        'note': '',
+        'service_id': 'c9beb237-7e85-49b3-8561-0082fc8086ea'
+    },
+    'GET:4fa80758-0862-42d7-b5b1-5bf1f29b6362': {
+        'paths': [
+            '/auction/find/content'],
+        'note': '',
+        'service_id': 'c9beb237-7e85-49b3-8561-0082fc8086ea'
+    },
+    'GET:f7f81305-901f-4dda-9b6a-11de39e21870': {
+        'paths': [
+            '/auction/v250/live_special/sell_order/detail/.*'],
+        'note': '',
+        'service_id': 'c9beb237-7e85-49b3-8561-0082fc8086ea'
+    },
+    'GET:8a814fa4-c410-4102-a8c2-71cc822034c7': {
+        'paths': [
+            '/auction/v223/buy_sell/about_sell/offer_result'],
+        'note': '',
+        'service_id': 'c9beb237-7e85-49b3-8561-0082fc8086ea'
+    },
+    'POST:c4f962d4-0ce3-4ca7-809c-cab3ff1ee13e': {
+        'paths': [
+            '/auction/live_special/v250/live/share'],
+        'note': '',
+        'service_id': 'c9beb237-7e85-49b3-8561-0082fc8086ea'
+    },
+    'GET:a5481fb1-7f69-40a8-b75c-b683d66bc91a': {
+        'paths': [
+            '/auction/v151/find/content'],
+        'note': '',
+        'service_id': 'c9beb237-7e85-49b3-8561-0082fc8086ea'
+    },
+    'GET:968a070c-eb5f-43a4-b79f-d73dee5351d9': {
+        'paths': [
+            '/auction/v220/user_search'],
+        'note': '',
+        'service_id': 'c9beb237-7e85-49b3-8561-0082fc8086ea'
+    },
+    'GET:e3aa9930-a10b-4c51-a88c-63372035143a': {
+        'paths': [
+            '/auction/v221/buy_sell/pay_order'],
+        'note': '',
+        'service_id': 'c9beb237-7e85-49b3-8561-0082fc8086ea'
+    },
+    'GET:1a12fc74-1ac7-49c0-81c1-7fb01ae516c3': {
+        'paths': [
+            '/auction/v270/buyer/order_refund'],
+        'note': '',
+        'service_id': 'c9beb237-7e85-49b3-8561-0082fc8086ea'
+    },
+    'DELETE:c528b005-ae40-4a3d-b692-96993b4eef2c': {
+        'paths': [
+            '/auction/order/action'],
+        'note': '',
+        'service_id': 'c9beb237-7e85-49b3-8561-0082fc8086ea'
+    },
+    'GET:a295a5c7-871f-4773-9dfe-de61e1adfdd7': {
+        'paths': [
+            '/auction/live_special/v250/product/prepare'],
+        'note': '',
+        'service_id': 'c9beb237-7e85-49b3-8561-0082fc8086ea'
+    },
+    'GET:f8f045f2-06ab-431d-a174-d7c667853ead': {
+        'paths': [
+            '/auction/v110/hot_content'],
+        'note': '',
+        'service_id': 'c9beb237-7e85-49b3-8561-0082fc8086ea'
+    },
+    'GET:c09b1fbe-abee-4c6c-8332-bf5deca9c888': {
+        'paths': [
+            '/auction/v260/tea_room/detail/.*'],
+        'note': '',
+        'service_id': 'c9beb237-7e85-49b3-8561-0082fc8086ea'
+    },
+    'PUT:405c1610-65ed-494f-b22b-f95f0b4e0e08': {
+        'paths': [
+            '/auction/user_info'],
+        'note': '',
+        'service_id': 'c9beb237-7e85-49b3-8561-0082fc8086ea'
+    },
+    'GET:23b5b2fa-ec18-451a-b925-cd3a823e1773': {
+        'paths': [
+            '/auction/v210/personal_homepage'],
+        'note': '',
+        'service_id': 'c9beb237-7e85-49b3-8561-0082fc8086ea'
+    },
+    'GET:e4ee945e-8db8-4beb-a177-eed9b8ba228e': {
+        'paths': [
+            '/auction/v261/very_day_special_auction'],
+        'note': '',
+        'service_id': 'c9beb237-7e85-49b3-8561-0082fc8086ea'
+    },
+    'GET:44c8e240-4186-46d0-b21e-7e7856c745ec': {
+        'paths': [
+            '/auction/product_manage/v270/product_dicker/.*'],
+        'note': '',
+        'service_id': 'c9beb237-7e85-49b3-8561-0082fc8086ea'
+    },
+    'POST:4504996c-6fca-42fc-8e32-e275d0fbf22e': {
+        'paths': [
+            '/auction/v270/buyer/order_sign'],
+        'note': '',
+        'service_id': 'c9beb237-7e85-49b3-8561-0082fc8086ea'
+    },
+    'POST:98c69c8b-3ce2-4368-a974-88c322349ee7': {
+        'paths': [
+            '/auction/v272/tea_room/action/.*'],
+        'note': '',
+        'service_id': 'c9beb237-7e85-49b3-8561-0082fc8086ea'
+    },
+    'GET:ec7cbf38-693e-4f9c-8c1c-a4a42c06d808': {
+        'paths': [
+            '/auction/qiniu/upload_token'],
+        'note': '',
+        'service_id': 'c9beb237-7e85-49b3-8561-0082fc8086ea'
+    },
+    'POST:38b41251-a76d-4921-b1b5-bc7d1a9e277c': {
+        'paths': [
+            '/auction/v220/viewpoint_content_detail/.*'],
+        'note': '',
+        'service_id': 'c9beb237-7e85-49b3-8561-0082fc8086ea'
+    },
+    'GET:9cbb3a47-c9ec-4530-84eb-fb1c902c3509': {
+        'paths': [
+            '/auction/all_order'],
+        'note': '',
+        'service_id': 'c9beb237-7e85-49b3-8561-0082fc8086ea'
+    },
+    'GET:78ee8bf3-f47e-4b50-8f1f-c3204f5c5b14': {
+        'paths': [
+            '/auction/product_manage/v270/business/want2buy_list'],
+        'note': '',
+        'service_id': 'c9beb237-7e85-49b3-8561-0082fc8086ea'
+    },
+    'GET:39b21ac4-4a8e-44f8-aa72-dd8626d56cc7': {
+        'paths': [
+            '/auction/order/v150/refund'],
+        'note': '',
+        'service_id': 'c9beb237-7e85-49b3-8561-0082fc8086ea'
+    },
+    'GET:2a0db451-137d-449a-a35a-d0f86d6112f9': {
+        'paths': [
+            '/auction/live_special/v250/commerce_info'],
+        'note': '',
+        'service_id': 'c9beb237-7e85-49b3-8561-0082fc8086ea'
+    },
+    'POST:84f8220b-926a-4d8e-bbcb-f27946908208': {
+        'paths': [
+            '/auction/v260/tea_room/user_close'],
+        'note': '',
+        'service_id': 'c9beb237-7e85-49b3-8561-0082fc8086ea'
+    },
+    'GET:706705f4-e715-43ae-9c62-b22644321fed': {
+        'paths': [
+            '/auction/v270/content_sell_product'],
+        'note': '',
+        'service_id': 'c9beb237-7e85-49b3-8561-0082fc8086ea'
+    },
+    'GET:4ac6f4bb-c4ee-4735-8c33-874514f68fcc': {
+        'paths': [
+            '/auction/live_special/v270/product_list'],
+        'note': '',
+        'service_id': 'c9beb237-7e85-49b3-8561-0082fc8086ea'
+    },
+    'PUT:ef5a60e5-79aa-46c2-b81c-3f5d25fde773': {
+        'paths': [
+            '/auction/v260/tea_room/invite_user'],
+        'note': '',
+        'service_id': 'c9beb237-7e85-49b3-8561-0082fc8086ea'
+    },
+    'POST:04790501-e6dd-4d61-8935-735ee7c9f35f': {
+        'paths': [
+            '/auction/product_manage/v270/product_buy/.*'],
+        'note': '',
+        'service_id': 'c9beb237-7e85-49b3-8561-0082fc8086ea'
+    },
+    'GET:62af5b51-03f4-4b36-b6f9-9c00069c1f4c': {
+        'paths': [
+            '/auction/v210/buy_sell/pay_order/sell_wechat_pay_query'],
+        'note': '',
+        'service_id': 'c9beb237-7e85-49b3-8561-0082fc8086ea'
+    },
+    'GET:8eb12cf1-dd72-4824-9bbc-86383b622e08': {
+        'paths': [
+            '/auction/product_manage/v273/business/dynamic'],
+        'note': '',
+        'service_id': 'c9beb237-7e85-49b3-8561-0082fc8086ea'
+    },
+    'GET:272cb752-8cec-4e1f-a7f7-80ecf949a227': {
+        'paths': [
+            '/auction/v240/group_user_list'],
+        'note': '',
+        'service_id': 'c9beb237-7e85-49b3-8561-0082fc8086ea'
+    },
+    'POST:12c93044-433f-41e4-996b-dc652b27e13d': {
+        'paths': [
+            '/auction/product_manage/v270/business/sell_product/.*'],
+        'note': '',
+        'service_id': 'c9beb237-7e85-49b3-8561-0082fc8086ea'
+    },
+    'POST:35be8163-157a-4cee-96b9-509e2995da2e': {
+        'paths': [
+            '/auction/v200/payment/pay_pledge'],
+        'note': '',
+        'service_id': 'c9beb237-7e85-49b3-8561-0082fc8086ea'
+    },
+    'POST:e3aa9930-a10b-4c51-a88c-63372035143a': {
+        'paths': [
+            '/auction/v221/buy_sell/pay_order'],
+        'note': '',
+        'service_id': 'c9beb237-7e85-49b3-8561-0082fc8086ea'
+    },
+    'DELETE:3aa1d1eb-20cb-449c-9093-39f8dc1a35e2': {
+        'paths': [
+            '/auction/v210/buy_sell/comment/level_2/auction'],
+        'note': '',
+        'service_id': 'c9beb237-7e85-49b3-8561-0082fc8086ea'
+    },
+    'GET:04790501-e6dd-4d61-8935-735ee7c9f35f': {
+        'paths': [
+            '/auction/product_manage/v270/product_buy/.*'],
+        'note': '',
+        'service_id': 'c9beb237-7e85-49b3-8561-0082fc8086ea'
+    },
+    'GET:de9830fb-808b-443e-bffd-9d3fb27c350d': {
+        'paths': [
+            '/auction/topic_content'],
+        'note': '',
+        'service_id': 'c9beb237-7e85-49b3-8561-0082fc8086ea'
+    },
+    'GET:a5f948ae-2763-4995-867c-3d583924f018': {
+        'paths': [
+            '/auction/live_special/v250/live/message'],
+        'note': '',
+        'service_id': 'c9beb237-7e85-49b3-8561-0082fc8086ea'
+    },
+    'POST:3104fb1b-7177-467c-b1b6-5f1ff8b3fe0f': {
+        'paths': [
+            '/auction/v270/seller/shipments'],
+        'note': '',
+        'service_id': 'c9beb237-7e85-49b3-8561-0082fc8086ea'
+    },
+    'POST:c359e476-c6c2-411d-a131-0165d25b1e6b': {
+        'paths': [
+            '/auction/v260/tea_room/record_fission_share'],
+        'note': '',
+        'service_id': 'c9beb237-7e85-49b3-8561-0082fc8086ea'
+    },
+    'GET:12c93044-433f-41e4-996b-dc652b27e13d': {
+        'paths': [
+            '/auction/product_manage/v270/business/sell_product/.*'],
+        'note': '',
+        'service_id': 'c9beb237-7e85-49b3-8561-0082fc8086ea'
+    },
+    'GET:dced6261-ce87-4472-84be-4dddfac98c9d': {
+        'paths': [
+            '/auction/live_special/v250/live_special_is_open/.*'],
+        'note': '',
+        'service_id': 'c9beb237-7e85-49b3-8561-0082fc8086ea'
+    },
+    'POST:3107bb27-2642-4382-a6ce-78b8e5eaa35d': {
+        'paths': [
+            '/auction/v210/buy_sell/about_sell/sell_wechat_callback_pay_pledge'],
+        'note': '',
+        'service_id': 'c9beb237-7e85-49b3-8561-0082fc8086ea'
+    },
+    'GET:e11fce08-6a64-40d2-a4c9-88e09654a33f': {
+        'paths': [
+            '/auction/live_special/v250/live_special_list'],
+        'note': '',
+        'service_id': 'c9beb237-7e85-49b3-8561-0082fc8086ea'
+    },
+    'POST:15443449-5376-447e-a44d-7cc0109e17f0': {
+        'paths': [
+            '/auction/login'],
+        'note': '',
+        'service_id': 'c9beb237-7e85-49b3-8561-0082fc8086ea'
+    },
+    'GET:57d69dd2-3e58-459b-8ef9-86556b4e0813': {
+        'paths': [
+            '/auction/attention/list'],
+        'note': '',
+        'service_id': 'c9beb237-7e85-49b3-8561-0082fc8086ea'
+    },
+    'GET:112ce97b-13f8-405d-8d46-2d619bd14a90': {
+        'paths': [
+            '/auction/user/user_homepage/issue_collect_like_list'],
+        'note': '',
+        'service_id': 'c9beb237-7e85-49b3-8561-0082fc8086ea'
+    },
+    'GET:841433a4-20db-4c05-8812-93e52490ba4c': {
+        'paths': [
+            '/auction/v221/buy_sell/my_sell/detail/.*'],
+        'note': '',
+        'service_id': 'c9beb237-7e85-49b3-8561-0082fc8086ea'
+    },
+    'POST:e675ea15-7c01-4538-be37-4e4870884af8': {
+        'paths': [
+            '/auction/v273/content/vote'],
+        'note': '',
+        'service_id': 'c9beb237-7e85-49b3-8561-0082fc8086ea'
+    },
+    'GET:f61122a8-096e-4bf1-a3f9-e0c6a783b741': {
+        'paths': [
+            '/auction/v120/system_notice/.*'],
+        'note': '',
+        'service_id': 'c9beb237-7e85-49b3-8561-0082fc8086ea'
+    },
+    'GET:dd1ca5d4-b54f-48fc-b5d8-624770363535': {
+        'paths': [
+            '/auction/v200/live_special_auction/.*'],
+        'note': '',
+        'service_id': 'c9beb237-7e85-49b3-8561-0082fc8086ea'
+    },
+    'GET:8ec51e26-84e4-40ed-a971-49ff57e2dc27': {
+        'paths': [
+            '/auction/live_special/v250/product/draft'],
+        'note': '',
+        'service_id': 'c9beb237-7e85-49b3-8561-0082fc8086ea'
+    },
+    'GET:48061b46-1246-4f26-97fc-f4445f9cece0': {
+        'paths': [
+            '/auction/message/would_like'],
+        'note': '',
+        'service_id': 'c9beb237-7e85-49b3-8561-0082fc8086ea'
+    },
+    'DELETE:9bde5c24-5d15-4c2b-8ddf-be670645b12c': {
+        'paths': [
+            '/auction/v210/buy_sell/about_sell/my_sell/.*'],
+        'note': '',
+        'service_id': 'c9beb237-7e85-49b3-8561-0082fc8086ea'
+    },
+    'POST:b7b51267-b3a0-480a-ab54-828dd5a0d00f': {
+        'paths': [
+            '/auction/v240/answers_comment/level_2/auction'],
+        'note': '',
+        'service_id': 'c9beb237-7e85-49b3-8561-0082fc8086ea'
+    },
+    'GET:bf8b8b2d-4b2c-4f74-af80-c5ddd18e13ff': {
+        'paths': [
+            '/auction/product/.*'],
+        'note': '',
+        'service_id': 'c9beb237-7e85-49b3-8561-0082fc8086ea'
+    },
+    'DELETE:7387538d-26f0-4560-a06c-9c4393bdd6c1': {
+        'paths': [
+            '/auction/v230/question/.*'],
+        'note': '',
+        'service_id': 'c9beb237-7e85-49b3-8561-0082fc8086ea'
+    },
+    'GET:6a30164a-6d67-4c38-824f-fc29306b6516': {
+        'paths': [
+            '/auction/v220/content/video'],
+        'note': '',
+        'service_id': 'c9beb237-7e85-49b3-8561-0082fc8086ea'
+    },
+    'GET:f21d31c5-79dd-494e-9e89-dc06bc9ea350': {
+        'paths': [
+            '/auction/v272/tea_room/online_users/.*'],
+        'note': '',
+        'service_id': 'c9beb237-7e85-49b3-8561-0082fc8086ea'
+    },
+    'GET:24bacdf9-954e-4089-b50f-f0091ba8efde': {
+        'paths': [
+            '/auction/v210/buy_sell/sell_info_error'],
+        'note': '',
+        'service_id': 'c9beb237-7e85-49b3-8561-0082fc8086ea'
+    },
+    'DELETE:c1014bac-8047-4e42-a69d-4542762838d3': {
+        'paths': [
+            '/auction/comment/level_2/auction'],
+        'note': '',
+        'service_id': 'c9beb237-7e85-49b3-8561-0082fc8086ea'
+    },
+    'GET:0d130166-14dc-45a0-8be4-19d2bd19f1b9': {
+        'paths': [
+            '/auction/v262/tea_room/query_user_tea_room'],
+        'note': '',
+        'service_id': 'c9beb237-7e85-49b3-8561-0082fc8086ea'
+    },
+    'GET:9f5c4de1-37ed-45cd-83fe-20f2b61f03e7': {
+        'paths': [
+            '/auction/cron/receipt'],
+        'note': '',
+        'service_id': 'c9beb237-7e85-49b3-8561-0082fc8086ea'
+    },
+    'POST:a5f948ae-2763-4995-867c-3d583924f018': {
+        'paths': [
+            '/auction/live_special/v250/live/message'],
+        'note': '',
+        'service_id': 'c9beb237-7e85-49b3-8561-0082fc8086ea'
+    },
+    'DELETE:004a7944-2ba2-469b-9ebc-4a55efb9ea23': {
+        'paths': [
+            '/auction/live_special/v250/commerce_detail/.*'],
+        'note': '',
+        'service_id': 'c9beb237-7e85-49b3-8561-0082fc8086ea'
+    },
+    'POST:9da0fe41-a957-424c-afa6-6da0bfa8a969': {
+        'paths': [
+            '/auction/live_special/v250/ios/login'],
+        'note': '',
+        'service_id': 'c9beb237-7e85-49b3-8561-0082fc8086ea'
+    },
+    'GET:88dd6bf3-630e-4e19-af52-67892c51a8a5': {
+        'paths': [
+            '/auction/v220/query_attention'],
+        'note': '',
+        'service_id': 'c9beb237-7e85-49b3-8561-0082fc8086ea'
+    },
+    'DELETE:8350464b-5172-47e6-911c-626444f7407d': {
+        'paths': [
+            '/auction/v221/buy_sell/about_sell/my_sell/.*'],
+        'note': '',
+        'service_id': 'c9beb237-7e85-49b3-8561-0082fc8086ea'
+    },
+    'GET:84b26a52-268b-4fcc-8a66-d3fd5870a651': {
+        'paths': [
+            '/auction/v221/buy_sell/sell_order/order_tail'],
+        'note': '',
+        'service_id': 'c9beb237-7e85-49b3-8561-0082fc8086ea'
+    },
+    'POST:5709ff90-4622-41ed-9cc2-ea955950a745': {
+        'paths': [
+            '/auction/v130/coupon_share_action'],
+        'note': '',
+        'service_id': 'c9beb237-7e85-49b3-8561-0082fc8086ea'
+    },
+    'GET:bf78f044-4f01-4855-a0e2-b2eaccfde96d': {
+        'paths': [
+            '/auction/live_special/v250/live/query_virtual_number'],
+        'note': '',
+        'service_id': 'c9beb237-7e85-49b3-8561-0082fc8086ea'
+    },
+    'POST:17faf0da-763a-4b32-9de1-e4c987493bc8': {
+        'paths': [
+            '/auction/comment/level_2/like'],
+        'note': '',
+        'service_id': 'c9beb237-7e85-49b3-8561-0082fc8086ea'
+    },
+    'GET:a20636d8-1ec2-420c-81dd-acd8b829610d': {
+        'paths': [
+            '/auction/v272/tea_room/tea_rooms'],
+        'note': '',
+        'service_id': 'c9beb237-7e85-49b3-8561-0082fc8086ea'
+    },
+    'GET:1b9a9efb-e9c9-4a6c-badb-594f81e8d3df': {
+        'paths': [
+            '/auction/live_special/v270/live_special_is_open/.*'],
+        'note': '',
+        'service_id': 'c9beb237-7e85-49b3-8561-0082fc8086ea'
+    },
+    'GET:8d06b03e-74b6-4800-b310-9919ee73ed9f': {
+        'paths': [
+            '/auction/product_manage/v270/product/list'],
+        'note': '',
+        'service_id': 'c9beb237-7e85-49b3-8561-0082fc8086ea'
+    },
+    'GET:d16bcb1a-ccbf-4887-b5d0-7794a07be60e': {
+        'paths': [
+            '/auction/financial_details/list'],
+        'note': '',
+        'service_id': 'c9beb237-7e85-49b3-8561-0082fc8086ea'
+    },
+    'GET:387d5c2e-770d-4aa3-b409-76b4e65e1c29': {
+        'paths': [
+            '/auction/product_manage/v270/product/draft'],
+        'note': '',
+        'service_id': 'c9beb237-7e85-49b3-8561-0082fc8086ea'
+    },
+    'POST:1371d540-7f13-460a-9f3b-291f1e931e46': {
+        'paths': [
+            '/auction/payment/user_withdrawal_apply'],
+        'note': '',
+        'service_id': 'c9beb237-7e85-49b3-8561-0082fc8086ea'
+    },
+    'DELETE:bf8b8b2d-4b2c-4f74-af80-c5ddd18e13ff': {
+        'paths': [
+            '/auction/product/.*'],
+        'note': '',
+        'service_id': 'c9beb237-7e85-49b3-8561-0082fc8086ea'
+    },
+    'POST:7d58e03f-1119-49ab-82c1-bc0a26230ee8': {
+        'paths': [
+            '/auction/live_special/v270/live_message'],
+        'note': '',
+        'service_id': 'c9beb237-7e85-49b3-8561-0082fc8086ea'
+    },
+    'POST:e81f0224-101c-4452-a667-33899f0bb484': {
+        'paths': [
+            '/auction/v221/buy_sell/pay_order/buy_wechat_callback_pay'],
+        'note': '',
+        'service_id': 'c9beb237-7e85-49b3-8561-0082fc8086ea'
+    },
+    'DELETE:d2309766-3a4a-459d-b6ef-3766bb7f53d4': {
+        'paths': [
+            '/auction/v272/tea_room/img_manage/.*'],
+        'note': '',
+        'service_id': 'c9beb237-7e85-49b3-8561-0082fc8086ea'
+    },
+    'POST:fee4e75c-a2d5-447f-8b2b-e65d71bf5306': {
+        'paths': [
+            '/auction/wechat_public'],
+        'note': '',
+        'service_id': 'c9beb237-7e85-49b3-8561-0082fc8086ea'
+    },
+    'GET:1632c725-398f-46bf-9ac3-6279b9c9805d': {
+        'paths': [
+            '/auction/v270/seller/order'],
+        'note': '',
+        'service_id': 'c9beb237-7e85-49b3-8561-0082fc8086ea'
+    },
+    'GET:6b3074d9-83a6-4540-af7f-cdaeda7d54ee': {
+        'paths': [
+            '/auction/cron/past_pay'],
+        'note': '',
+        'service_id': 'c9beb237-7e85-49b3-8561-0082fc8086ea'
+    },
+    'GET:a315b8f7-0b07-4f17-bdc1-650c11e627ff': {
+        'paths': [
+            '/auction/v200/ios/live_special_auction_list'],
+        'note': '',
+        'service_id': 'c9beb237-7e85-49b3-8561-0082fc8086ea'
+    },
+    'DELETE:9790d0ed-aad7-4933-9c85-504425c87b44': {
+        'paths': [
+            '/auction/live_special/v250/product_detail/.*'],
+        'note': '',
+        'service_id': 'c9beb237-7e85-49b3-8561-0082fc8086ea'
+    },
+    'POST:64951f7d-f880-4af6-8635-ed8efe1a616b': {
+        'paths': [
+            '/auction/v230/questions'],
+        'note': '',
+        'service_id': 'c9beb237-7e85-49b3-8561-0082fc8086ea'
+    },
+    'GET:5ef58146-68ae-4a7e-a2d0-2633872ab399': {
+        'paths': [
+            '/auction/v200/live_special_auction_product_list/.*'],
+        'note': '',
+        'service_id': 'c9beb237-7e85-49b3-8561-0082fc8086ea'
+    },
+    'POST:8993b020-c71a-4756-84b5-c57e12023014': {
+        'paths': [
+            '/auction/v210/buy_sell/order_refund'],
+        'note': '',
+        'service_id': 'c9beb237-7e85-49b3-8561-0082fc8086ea'
+    },
+    'GET:01e3a87d-e157-4620-a103-d746bd83056a': {
+        'paths': [
+            '/auction/v222/content/get_content_mini_qrcode'],
+        'note': '',
+        'service_id': 'c9beb237-7e85-49b3-8561-0082fc8086ea'
+    },
+    'GET:baa3e6c7-b47a-4f5f-9e6f-8ad1626d3278': {
+        'paths': [
+            '/auction/v240/answers_comment/level_1/list/.*'],
+        'note': '',
+        'service_id': 'c9beb237-7e85-49b3-8561-0082fc8086ea'
+    },
+    'GET:f3090b81-2781-49f8-bbf1-782344e56667': {
+        'paths': [
+            '/auction/v245/find/content'],
+        'note': '',
+        'service_id': 'c9beb237-7e85-49b3-8561-0082fc8086ea'
+    },
+    'GET:3b25e369-9142-4e1b-a77f-2eef37da1668': {
+        'paths': [
+            '/auction/product_manage/v270/im/message_list'],
+        'note': '',
+        'service_id': 'c9beb237-7e85-49b3-8561-0082fc8086ea'
+    },
+    'GET:334f892b-b8e2-42e5-ad6d-e827c3a601d6': {
+        'paths': [
+            '/auction/live_special/v250/product/list'],
+        'note': '',
+        'service_id': 'c9beb237-7e85-49b3-8561-0082fc8086ea'
+    },
+    'POST:080e5280-0348-48c6-8122-7f2532bec685': {
+        'paths': [
+            '/auction/v210/payment/send_back_amount'],
+        'note': '',
+        'service_id': 'c9beb237-7e85-49b3-8561-0082fc8086ea'
+    },
+    'GET:4292cd51-9edb-4c6c-8e66-a47b7660d3a1': {
+        'paths': [
+            '/auction/v210/buy_sell/sell_list/.*'],
+        'note': '',
+        'service_id': 'c9beb237-7e85-49b3-8561-0082fc8086ea'
+    },
+    'POST:750130ab-3ed6-45a5-a4ed-b41aaeeed6a7': {
+        'paths': [
+            '/auction/v262/tea_room/like'],
+        'note': '',
+        'service_id': 'c9beb237-7e85-49b3-8561-0082fc8086ea'
+    },
+    'GET:385681ab-d3be-42e0-ae31-3ca946134a5f': {
+        'paths': [
+            '/auction/comment/level_1/list/.*'],
+        'note': '',
+        'service_id': 'c9beb237-7e85-49b3-8561-0082fc8086ea'
+    },
+    'PUT:12ef59a3-9228-4bb7-9c09-c5d25d3edbf1': {
+        'paths': [
+            '/auction/personal_homepage'],
+        'note': '',
+        'service_id': 'c9beb237-7e85-49b3-8561-0082fc8086ea'
+    },
+    'GET:c7c1d10b-8839-4c0c-956e-01265a81ee10': {
+        'paths': [
+            '/auction/v272/tea_room/musics'],
+        'note': '',
+        'service_id': 'c9beb237-7e85-49b3-8561-0082fc8086ea'
+    },
+    'GET:4d06f511-9bd5-42d6-b082-c45e95ab5c9e': {
+        'paths': [
+            '/auction/user/query_system_notice'],
+        'note': '',
+        'service_id': 'c9beb237-7e85-49b3-8561-0082fc8086ea'
+    },
+    'GET:0966f304-fc33-43a3-89cb-8ce7d998af87': {
+        'paths': [
+            '/auction/v210/buy_sell/goods_detail/.*'],
+        'note': '',
+        'service_id': 'c9beb237-7e85-49b3-8561-0082fc8086ea'
+    },
+    'POST:40e0633b-ac21-45d1-ac6f-0b3576934929': {
+        'paths': [
+            '/auction/v223/buy_sell/about_sell/offer_refuse'],
+        'note': '',
+        'service_id': 'c9beb237-7e85-49b3-8561-0082fc8086ea'
+    },
+    'GET:8b41d7ba-0bd0-42f5-999a-c50592dcb9c4': {
+        'paths': [
+            '/auction/v221/buy_sell/order_refund'],
+        'note': '',
+        'service_id': 'c9beb237-7e85-49b3-8561-0082fc8086ea'
+    },
+    'GET:30a5a128-4d9b-4f5b-a4f3-b1112644fb77': {
+        'paths': [
+            '/auction/test/history'],
+        'note': '',
+        'service_id': 'c9beb237-7e85-49b3-8561-0082fc8086ea'
+    },
+    'GET:d6403511-80ab-4fd2-8c42-6d9c2410c897': {
+        'paths': [
+            '/auction/v120/special_auction/index'],
+        'note': '',
+        'service_id': 'c9beb237-7e85-49b3-8561-0082fc8086ea'
+    },
+    'DELETE:62a6e223-b5c4-4031-8ce3-5e11d6a565e1': {
+        'paths': [
+            '/auction/v210/buy_sell/sell_order/action'],
+        'note': '',
+        'service_id': 'c9beb237-7e85-49b3-8561-0082fc8086ea'
+    },
+    'GET:32b07394-02cf-4fe6-ad48-1bcf3782a838': {
+        'paths': [
+            '/auction/v210/buy_sell/about_sell/sell_wechat_pay_query'],
+        'note': '',
+        'service_id': 'c9beb237-7e85-49b3-8561-0082fc8086ea'
+    },
+    'GET:9ba31c12-3720-4bf4-86ac-fdb940b850e5': {
+        'paths': [
+            '/auction/v260/tea_room/hot_users'],
+        'note': '',
+        'service_id': 'c9beb237-7e85-49b3-8561-0082fc8086ea'
+    },
+    'GET:27e8b835-b0c4-4258-9b72-9a63a65d12b9': {
+        'paths': [
+            '/auction/live/query_special_live_virtual_number/.*'],
+        'note': '',
+        'service_id': 'c9beb237-7e85-49b3-8561-0082fc8086ea'
+    },
+    'GET:004a7944-2ba2-469b-9ebc-4a55efb9ea23': {
+        'paths': [
+            '/auction/live_special/v250/commerce_detail/.*'],
+        'note': '',
+        'service_id': 'c9beb237-7e85-49b3-8561-0082fc8086ea'
+    },
+    'GET:10c05238-c931-4f28-952d-ed1e30c40b49': {
+        'paths': [
+            '/auction/v271/special_auction/index'],
+        'note': '',
+        'service_id': 'c9beb237-7e85-49b3-8561-0082fc8086ea'
+    },
+    'GET:a210ee5a-d35f-411e-8fe6-15da021ea915': {
+        'paths': [
+            '/auction/attention_or_review/record/.*'],
+        'note': '',
+        'service_id': 'c9beb237-7e85-49b3-8561-0082fc8086ea'
+    },
+    'DELETE:1632c725-398f-46bf-9ac3-6279b9c9805d': {
+        'paths': [
+            '/auction/v270/seller/order'],
+        'note': '',
+        'service_id': 'c9beb237-7e85-49b3-8561-0082fc8086ea'
+    },
+    'GET:d278f4c5-31f4-4634-b43c-6607d4684a85': {
+        'paths': [
+            '/auction/v255/viewpoint_content_detail/.*'],
+        'note': '',
+        'service_id': 'c9beb237-7e85-49b3-8561-0082fc8086ea'
+    },
+    'POST:a53b5240-6a3b-49ab-9f52-aeb764ccf7dc': {
+        'paths': [
+            '/auction/content/like/.*'],
+        'note': '',
+        'service_id': 'c9beb237-7e85-49b3-8561-0082fc8086ea'
+    },
+    'PUT:dccb5ff7-c86f-4dcd-ab68-8c4df9da4bc4': {
+        'paths': [
+            '/auction/product_shoot'],
+        'note': '',
+        'service_id': 'c9beb237-7e85-49b3-8561-0082fc8086ea'
+    },
+    'GET:7d1912d3-2ffc-4646-b6cf-2746e122a7bb': {
+        'paths': [
+            '/auction/v270/sell_center'],
+        'note': '',
+        'service_id': 'c9beb237-7e85-49b3-8561-0082fc8086ea'
+    },
+    'POST:bc83d7e4-44af-4edb-88f1-d2e9982dd365': {
+        'paths': [
+            '/auction/v272/tea_room/music/action'],
+        'note': '',
+        'service_id': 'c9beb237-7e85-49b3-8561-0082fc8086ea'
+    },
+    'GET:fde0b81b-2d7a-44ac-9bb3-65013746a312': {
+        'paths': [
+            '/auction/v222/user_search'],
+        'note': '',
+        'service_id': 'c9beb237-7e85-49b3-8561-0082fc8086ea'
+    },
+    'POST:8d1323db-91e5-4dc1-b7cd-eb973fc24c2d': {
+        'paths': [
+            '/auction/live_special/v250/live/recommend_product'],
+        'note': '',
+        'service_id': 'c9beb237-7e85-49b3-8561-0082fc8086ea'
+    },
+    'GET:88c925fb-aece-48e2-879e-c4079b2dd382': {
+        'paths': [
+            '/auction/product_manage/v270/product/prepare'],
+        'note': '',
+        'service_id': 'c9beb237-7e85-49b3-8561-0082fc8086ea'
+    },
+    'GET:4a93b4d8-6b52-4a29-b0d7-ca6a2fcbc86a': {
+        'paths': [
+            '/auction/v110/content_detail/.*'],
+        'note': '',
+        'service_id': 'c9beb237-7e85-49b3-8561-0082fc8086ea'
+    },
+    'POST:1c71de1f-29eb-4cce-917d-514e61b7741a': {
+        'paths': [
+            '/auction/v210/buy_sell/pay_order'],
+        'note': '',
+        'service_id': 'c9beb237-7e85-49b3-8561-0082fc8086ea'
+    },
+    'POST:46e6281d-addc-4f84-9941-5a337336ffa0': {
+        'paths': [
+            '/auction/v270/seller/refund_price'],
+        'note': '',
+        'service_id': 'c9beb237-7e85-49b3-8561-0082fc8086ea'
+    },
+    'POST:27fcb2cf-a724-453d-9a50-461bf9aef57e': {
+        'paths': [
+            '/auction/bid_error'],
+        'note': '',
+        'service_id': 'c9beb237-7e85-49b3-8561-0082fc8086ea'
+    },
+    'GET:63901908-2c8a-4224-a9db-dbbcd51ebc87': {
+        'paths': [
+            '/auction/v210/buy_sell/my_buy'],
+        'note': '',
+        'service_id': 'c9beb237-7e85-49b3-8561-0082fc8086ea'
+    },
+    'DELETE:1dbfde9f-8f1d-43d0-b240-745137e5b208': {
+        'paths': [
+            '/auction/product_manage/v270/business/want2buy_detail/.*'],
+        'note': '',
+        'service_id': 'c9beb237-7e85-49b3-8561-0082fc8086ea'
+    },
+    'POST:c9823394-5338-4ed2-89e7-4f6a4b362726': {
+        'paths': [
+            '/auction/live_special/v270/live_share'],
+        'note': '',
+        'service_id': 'c9beb237-7e85-49b3-8561-0082fc8086ea'
+    },
+    'GET:002b6896-002d-4119-8897-3c7348cf5085': {
+        'paths': [
+            '/auction/product_manage/v270/business/want2buy_sell_product/.*'],
+        'note': '',
+        'service_id': 'c9beb237-7e85-49b3-8561-0082fc8086ea'
+    },
+    'GET:c3cdc1c2-6d20-44a6-bc42-e92ca7f96563': {
+        'paths': [
+            '/auction/v251/get_user_wechat_unionid'],
+        'note': '',
+        'service_id': 'c9beb237-7e85-49b3-8561-0082fc8086ea'
+    },
+    'POST:84dbb43b-bdfb-419f-b143-1037187d05a8': {
+        'paths': [
+            '/auction/content/collect/.*'],
+        'note': '',
+        'service_id': 'c9beb237-7e85-49b3-8561-0082fc8086ea'
+    },
+    'PUT:bf8b8b2d-4b2c-4f74-af80-c5ddd18e13ff': {
+        'paths': [
+            '/auction/product/.*'],
+        'note': '',
+        'service_id': 'c9beb237-7e85-49b3-8561-0082fc8086ea'
+    },
+    'DELETE:4cd54be7-6f49-435b-b9a6-250458a2f194': {
+        'paths': [
+            '/auction/product_manage/v270/product_detail/.*'],
+        'note': '',
+        'service_id': 'c9beb237-7e85-49b3-8561-0082fc8086ea'
+    },
+    'PUT:9f5c4de1-37ed-45cd-83fe-20f2b61f03e7': {
+        'paths': [
+            '/auction/cron/receipt'],
+        'note': '',
+        'service_id': 'c9beb237-7e85-49b3-8561-0082fc8086ea'
+    },
+    'POST:12b45fce-48c7-45db-9049-ed75df4720b9': {
+        'paths': [
+            '/auction/product_manage/v270/product_pay/.*'],
+        'note': '',
+        'service_id': 'c9beb237-7e85-49b3-8561-0082fc8086ea'
+    },
+    'GET:12ef59a3-9228-4bb7-9c09-c5d25d3edbf1': {
+        'paths': [
+            '/auction/personal_homepage'],
+        'note': '',
+        'service_id': 'c9beb237-7e85-49b3-8561-0082fc8086ea'
+    },
+    'GET:36b08067-f704-4f42-8839-a0171a55b3f9': {
+        'paths': [
+            '/auction/v250/sell_center'],
+        'note': '',
+        'service_id': 'c9beb237-7e85-49b3-8561-0082fc8086ea'
+    },
+    'POST:9234e394-d82b-4ced-8d51-289799bc0478': {
+        'paths': [
+            '/auction/special_auction/attention'],
+        'note': '',
+        'service_id': 'c9beb237-7e85-49b3-8561-0082fc8086ea'
+    },
+    'GET:62c27428-bf3c-416b-a86f-97840c9fbe1e': {
+        'paths': [
+            '/auction/im/friend_list'],
+        'note': '',
+        'service_id': 'c9beb237-7e85-49b3-8561-0082fc8086ea'
+    },
+    'POST:ea0902ff-5ca1-468f-a30b-b187d4ec9e96': {
+        'paths': [
+            '/auction/v240/answers_comment/level_1/auction'],
+        'note': '',
+        'service_id': 'c9beb237-7e85-49b3-8561-0082fc8086ea'
+    },
+    'GET:c95e6335-c2e8-4ac5-bc5d-64ced715e669': {
+        'paths': [
+            '/auction/user/my_auction'],
+        'note': '',
+        'service_id': 'c9beb237-7e85-49b3-8561-0082fc8086ea'
+    },
+    'GET:29d88f09-7c32-4f9b-bbdc-2fa49059b761': {
+        'paths': [
+            '/auction/special_auction/status'],
+        'note': '',
+        'service_id': 'c9beb237-7e85-49b3-8561-0082fc8086ea'
+    },
+    'POST:4cd54be7-6f49-435b-b9a6-250458a2f194': {
+        'paths': [
+            '/auction/product_manage/v270/product_detail/.*'],
+        'note': '',
+        'service_id': 'c9beb237-7e85-49b3-8561-0082fc8086ea'
+    },
+    'GET:7624d16f-76cc-454a-8302-378adc3abb0f': {
+        'paths': [
+            '/auction/v200/live_special_auction_is_close/.*'],
+        'note': '',
+        'service_id': 'c9beb237-7e85-49b3-8561-0082fc8086ea'
+    },
+    'GET:69e8e3f0-47ab-4995-92e3-02ee21259810': {
+        'paths': [
+            '/auction/content/official_communication'],
+        'note': '',
+        'service_id': 'c9beb237-7e85-49b3-8561-0082fc8086ea'
+    },
+    'GET:0f0fafb1-afff-408e-904a-8723e54686c1': {
+        'paths': [
+            '/auction/user/query_system_notice'],
+        'note': '',
+        'service_id': 'c9beb237-7e85-49b3-8561-0082fc8086ea'
+    },
+    'POST:340d990b-2991-4cfa-834d-8eedb9e38916': {
+        'paths': [
+            '/auction/v230/answers_issue'],
+        'note': '',
+        'service_id': 'c9beb237-7e85-49b3-8561-0082fc8086ea'
+    },
+    'GET:a1a92bec-1e1b-467e-aa8b-5efb1a130a2b': {
+        'paths': [
+            '/auction/v130/product_coupon_details/.*'],
+        'note': '',
+        'service_id': 'c9beb237-7e85-49b3-8561-0082fc8086ea'
+    },
+    'GET:ded931c4-7232-41da-b932-3e6646101d62': {
+        'paths': [
+            '/auction/live_special/v250/live_special_product_pay/.*'],
+        'note': '',
+        'service_id': 'c9beb237-7e85-49b3-8561-0082fc8086ea'
+    },
+    'GET:9bde5c24-5d15-4c2b-8ddf-be670645b12c': {
+        'paths': [
+            '/auction/v210/buy_sell/about_sell/my_sell/.*'],
+        'note': '',
+        'service_id': 'c9beb237-7e85-49b3-8561-0082fc8086ea'
+    },
+    'GET:24b73d52-1e73-42f8-b585-ae4e589db940': {
+        'paths': [
+            '/auction/v255/content_detail/.*'],
+        'note': '',
+        'service_id': 'c9beb237-7e85-49b3-8561-0082fc8086ea'
+    },
+    'GET:583c00da-9a13-4d23-b3db-6299b287879c': {
+        'paths': [
+            '/auction/attention_or_review/details/.*'],
+        'note': '',
+        'service_id': 'c9beb237-7e85-49b3-8561-0082fc8086ea'
+    },
+    'GET:8e6c5360-88b3-4a00-b239-f3353f2517ad': {
+        'paths': [
+            '/auction/v222/content/recommend_video'],
+        'note': '',
+        'service_id': 'c9beb237-7e85-49b3-8561-0082fc8086ea'
+    },
+    'GET:dde3d81e-17f2-444b-90ad-e15462e900df': {
+        'paths': [
+            '/auction/v224/annual_data_2019'],
+        'note': '',
+        'service_id': 'c9beb237-7e85-49b3-8561-0082fc8086ea'
+    },
+    'GET:2cc7e3fe-0491-4a1a-95d3-a3d79aed9840': {
+        'paths': [
+            '/auction/v110/tag_content'],
+        'note': '',
+        'service_id': 'c9beb237-7e85-49b3-8561-0082fc8086ea'
+    },
+    'GET:b291082c-9d82-40ac-86ac-23197d36e0f9': {
+        'paths': [
+            '/auction/message/attention_status'],
+        'note': '',
+        'service_id': 'c9beb237-7e85-49b3-8561-0082fc8086ea'
+    },
+    'GET:1568cf5f-f0b3-43ca-901c-f3ad48b6710a': {
+        'paths': [
+            '/auction/v260/tea_room/online_users/.*'],
+        'note': '',
+        'service_id': 'c9beb237-7e85-49b3-8561-0082fc8086ea'
+    },
+    'GET:1821f5b8-3a33-40a7-b484-6e673f119b0d': {
+        'paths': [
+            '/auction/v250/live_special/sell_order/list'],
+        'note': '',
+        'service_id': 'c9beb237-7e85-49b3-8561-0082fc8086ea'
+    },
+    'GET:89a93459-46ea-4e06-bca0-a7c7ecd4ab36': {
+        'paths': [
+            '/auction/v110/user/discount_coupon_list'],
+        'note': '',
+        'service_id': 'c9beb237-7e85-49b3-8561-0082fc8086ea'
+    },
+    'GET:e9d81f34-d522-4164-85f8-af7089c70b3e': {
+        'paths': [
+            '/auction/follow_content'],
+        'note': '',
+        'service_id': 'c9beb237-7e85-49b3-8561-0082fc8086ea'
+    },
+    'POST:3d93b31d-df5e-48bc-abd6-8e0e055d9fe5': {
+        'paths': [
+            '/auction/v274/buyer_confirm_receipt'],
+        'note': '',
+        'service_id': 'c9beb237-7e85-49b3-8561-0082fc8086ea'
+    },
+    'POST:4228e2cf-341e-4cea-be02-96c20bacd4f6': {
+        'paths': [
+            '/auction/product_manage/v270/business/want2buy'],
+        'note': '',
+        'service_id': 'c9beb237-7e85-49b3-8561-0082fc8086ea'
+    },
+    'POST:8e0a4dda-c060-47ec-99d0-c58d23c30dc7': {
+        'paths': [
+            '/auction/im/send'],
+        'note': '',
+        'service_id': 'c9beb237-7e85-49b3-8561-0082fc8086ea'
+    },
+    'GET:fb7c2725-e5ac-4260-ba57-491a29703a40': {
+        'paths': [
+            '/auction/v251/find/advertising_position'],
+        'note': '',
+        'service_id': 'c9beb237-7e85-49b3-8561-0082fc8086ea'
+    },
+    'GET:12b45fce-48c7-45db-9049-ed75df4720b9': {
+        'paths': [
+            '/auction/product_manage/v270/product_pay/.*'],
+        'note': '',
+        'service_id': 'c9beb237-7e85-49b3-8561-0082fc8086ea'
+    },
+    'GET:70701a5d-4a5a-413e-8791-3f28d5361c56': {
+        'paths': [
+            '/auction/v221/buy_sell/sell_detail/.*'],
+        'note': '',
+        'service_id': 'c9beb237-7e85-49b3-8561-0082fc8086ea'
+    },
+    'GET:a396bc1d-8bfc-463b-968c-f5cb98c02363': {
+        'paths': [
+            '/auction/v270/user_tea_life'],
+        'note': '',
+        'service_id': 'c9beb237-7e85-49b3-8561-0082fc8086ea'
+    },
+    'DELETE:1690b5b1-949f-47b8-b6fa-9ba462618f39': {
+        'paths': [
+            '/auction/v230/answers_delete'],
+        'note': '',
+        'service_id': 'c9beb237-7e85-49b3-8561-0082fc8086ea'
+    },
+    'GET:d410349e-c675-412f-84ea-436b936476c9': {
+        'paths': [
+            '/auction/live_special/v250/live_special_info'],
+        'note': '',
+        'service_id': 'c9beb237-7e85-49b3-8561-0082fc8086ea'
+    },
+    'POST:db78c57f-7970-42ed-b3b4-87b81ea7f7f3': {
+        'paths': [
+            '/auction/live_special/v270/live_recommend_product'],
+        'note': '',
+        'service_id': 'c9beb237-7e85-49b3-8561-0082fc8086ea'
+    },
+    'GET:bb1967a1-09f1-4bbb-8775-ed0073597006': {
+        'paths': [
+            '/auction/v270/content_detail/.*'],
+        'note': '',
+        'service_id': 'c9beb237-7e85-49b3-8561-0082fc8086ea'
+    },
+    'GET:0dd8b3a0-7f33-4f52-9c6a-c2e08e0a75ee': {
+        'paths': [
+            '/auction/product_manage/v270/business/want2buy_detail/.*'],
+        'note': '',
+        'service_id': 'c9beb237-7e85-49b3-8561-0082fc8086ea'
+    },
+    'PUT:4cd54be7-6f49-435b-b9a6-250458a2f194': {
+        'paths': [
+            '/auction/product_manage/v270/product_detail/.*'],
+        'note': '',
+        'service_id': 'c9beb237-7e85-49b3-8561-0082fc8086ea'
+    },
+    'GET:f65684e1-4207-4992-94c7-15f436349132': {
+        'paths': [
+            '/auction/v210/buy_sell/comment/level_2/list/.*'],
+        'note': '',
+        'service_id': 'c9beb237-7e85-49b3-8561-0082fc8086ea'
+    },
+    'GET:b60ed1d3-a625-401a-87b6-ed36ca3f7e9f': {
+        'paths': [
+            '/auction/v253/view_advertising/.*'],
+        'note': '',
+        'service_id': 'c9beb237-7e85-49b3-8561-0082fc8086ea'
+    },
+    'POST:ef002198-b986-4de6-94c0-6728e42145c5': {
+        'paths': [
+            '/auction/v131/user/card_pop'],
+        'note': '',
+        'service_id': 'c9beb237-7e85-49b3-8561-0082fc8086ea'
+    },
+    'DELETE:8bfea242-4205-4ad6-9052-66f1aa9c5a75': {
+        'paths': [
+            '/auction/v210/buy_sell/comment/level_1/auction'],
+        'note': '',
+        'service_id': 'c9beb237-7e85-49b3-8561-0082fc8086ea'
+    },
+    'GET:b307cd15-f7c8-457e-bc0e-1cfa97f3bc48': {
+        'paths': [
+            '/auction/v273/tag_content'],
+        'note': '',
+        'service_id': 'c9beb237-7e85-49b3-8561-0082fc8086ea'
+    },
+    'GET:9d679e4b-2cd2-4fda-8b12-05f8090157d4': {
+        'paths': [
+            '/auction/im/message_list'],
+        'note': '',
+        'service_id': 'c9beb237-7e85-49b3-8561-0082fc8086ea'
+    },
+    'POST:d21e1e02-01d0-4e98-947d-217c6e4ed83f': {
+        'paths': [
+            '/auction/v210/buy_sell/comment/level_1/like'],
+        'note': '',
+        'service_id': 'c9beb237-7e85-49b3-8561-0082fc8086ea'
+    },
+    'GET:ff6670aa-db0c-4319-83d4-0c4380a6f8cb': {
+        'paths': [
+            '/auction/v241/find/content'],
+        'note': '',
+        'service_id': 'c9beb237-7e85-49b3-8561-0082fc8086ea'
+    },
+    'GET:3d5ff9cf-58f9-4da0-b1c6-db5c31aed267': {
+        'paths': [
+            '/auction/v221/buy_sell/sell_order/detail/.*'],
+        'note': '',
+        'service_id': 'c9beb237-7e85-49b3-8561-0082fc8086ea'
+    },
+    'POST:3b98b045-29bf-46cc-8e08-ad484053674f': {
+        'paths': [
+            '/auction/v240/content/red_bag/.*'],
+        'note': '',
+        'service_id': 'c9beb237-7e85-49b3-8561-0082fc8086ea'
+    },
+    'GET:b667279e-e517-4fce-8a43-61521f1640e0': {
+        'paths': [
+            '/auction/v230/answers_details'],
+        'note': '',
+        'service_id': 'c9beb237-7e85-49b3-8561-0082fc8086ea'
+    },
+    'DELETE:a031122c-7ce4-4a0d-8b27-d8df0d1ee0f5': {
+        'paths': [
+            '/auction/v270/buyer/order'],
+        'note': '',
+        'service_id': 'c9beb237-7e85-49b3-8561-0082fc8086ea'
+    },
+    'GET:2d72fe8c-f861-441b-a320-1ba604657469': {
+        'paths': [
+            '/auction/v256/content/recommend_video'],
+        'note': '',
+        'service_id': 'c9beb237-7e85-49b3-8561-0082fc8086ea'
+    },
+    'POST:36d154b3-781b-47e7-a1cd-ee356074c8eb': {
+        'paths': [
+            '/auction/content'],
+        'note': '',
+        'service_id': 'c9beb237-7e85-49b3-8561-0082fc8086ea'
+    },
+    'GET:8024e10c-2bc8-4a3f-814f-bacf4d601d6a': {
+        'paths': [
+            '/auction/live/v204/share_list/.*'],
+        'note': '',
+        'service_id': 'c9beb237-7e85-49b3-8561-0082fc8086ea'
+    },
+    'GET:98c03722-50db-4303-b524-d576d3d32ec3': {
+        'paths': [
+            '/auction/v260/tea_room/tea_rooms'],
+        'note': '',
+        'service_id': 'c9beb237-7e85-49b3-8561-0082fc8086ea'
+    },
+    'GET:793c6373-1d6f-4cee-bc21-0cea0031ef53': {
+        'paths': [
+            '/auction/v220/topic_square'],
+        'note': '',
+        'service_id': 'c9beb237-7e85-49b3-8561-0082fc8086ea'
+    },
+    'GET:dccb5ff7-c86f-4dcd-ab68-8c4df9da4bc4': {
+        'paths': [
+            '/auction/product_shoot'],
+        'note': '',
+        'service_id': 'c9beb237-7e85-49b3-8561-0082fc8086ea'
+    },
+    'POST:e9e4d8c5-d40d-43e0-9439-6aa30435a933': {
+        'paths': [
+            '/auction/v262/tea_room/open_invitation'],
+        'note': '',
+        'service_id': 'c9beb237-7e85-49b3-8561-0082fc8086ea'
+    },
+    'GET:ac7f8b57-8dbf-4877-948e-fc39a1e99175': {
+        'paths': [
+            '/auction/v210/buy_sell/sell_order/order_tail'],
+        'note': '',
+        'service_id': 'c9beb237-7e85-49b3-8561-0082fc8086ea'
+    },
+    'GET:38323730-d442-43d1-891f-2ab7d5d08a37': {
+        'paths': [
+            '/auction/v244/group/list'],
+        'note': '',
+        'service_id': 'c9beb237-7e85-49b3-8561-0082fc8086ea'
+    },
+    'POST:1a12fc74-1ac7-49c0-81c1-7fb01ae516c3': {
+        'paths': [
+            '/auction/v270/buyer/order_refund'],
+        'note': '',
+        'service_id': 'c9beb237-7e85-49b3-8561-0082fc8086ea'
+    },
+    'GET:6c4c00e7-73a3-4b1c-8a93-c703a540af8b': {
+        'paths': [
+            '/auction/category/list/.*'],
+        'note': '',
+        'service_id': 'c9beb237-7e85-49b3-8561-0082fc8086ea'
+    },
+    'POST:0aa85c07-196c-44bf-b2bd-2e6fe38c8995': {
+        'paths': [
+            '/auction/v200/payment/wechat_pay_pledge'],
+        'note': '',
+        'service_id': 'c9beb237-7e85-49b3-8561-0082fc8086ea'
+    },
+    'GET:48263fed-4624-453e-b387-46e6057c0e46': {
+        'paths': [
+            '/auction/v270/user_collect_content'],
+        'note': '',
+        'service_id': 'c9beb237-7e85-49b3-8561-0082fc8086ea'
+    },
+    'DELETE:4aab3d04-8f73-49cf-ad71-284c96e60044': {
+        'paths': [
+            '/auction/comment/level_1/auction'],
+        'note': '',
+        'service_id': 'c9beb237-7e85-49b3-8561-0082fc8086ea'
+    },
+    'POST:9940fff6-b241-40a0-8f90-26a5eb7129f9': {
+        'paths': [
+            '/auction/v260/tea_room/user_enter'],
+        'note': '',
+        'service_id': 'c9beb237-7e85-49b3-8561-0082fc8086ea'
+    },
+    'POST:c97c5d5a-c1d5-4cd2-945f-69a1bf20a720': {
+        'paths': [
+            '/auction/v260/tea_room/share'],
+        'note': '',
+        'service_id': 'c9beb237-7e85-49b3-8561-0082fc8086ea'
+    },
+    'POST:5284a255-5cff-4f25-b9d6-c17f6150d7c4': {
+        'paths': [
+            '/auction/live_special/v250/live_special_product_pay_callback'],
+        'note': '',
+        'service_id': 'c9beb237-7e85-49b3-8561-0082fc8086ea'
+    },
+    'GET:5b26215b-e3c6-40a6-899d-28c32bd24334': {
+        'paths': [
+            '/auction/public/get_qrcode'],
+        'note': '',
+        'service_id': 'c9beb237-7e85-49b3-8561-0082fc8086ea'
+    },
+    'DELETE:dccb5ff7-c86f-4dcd-ab68-8c4df9da4bc4': {
+        'paths': [
+            '/auction/product_shoot'],
+        'note': '',
+        'service_id': 'c9beb237-7e85-49b3-8561-0082fc8086ea'
+    },
+    'GET:90e020fb-211b-4f6d-bb61-b4689e77bd38': {
+        'paths': [
+            '/auction/content_detail/.*'],
+        'note': '',
+        'service_id': 'c9beb237-7e85-49b3-8561-0082fc8086ea'
+    },
+    'GET:e5ca3861-7bfa-45d0-9ef4-ae67da5202d8': {
+        'paths': [
+            '/auction/product_manage/v270/business/search'],
+        'note': '',
+        'service_id': 'c9beb237-7e85-49b3-8561-0082fc8086ea'
+    },
+    'GET:79c4b568-638a-44a6-b32f-2e300969e96e': {
+        'paths': [
+            '/auction/special_auction/index'],
+        'note': '',
+        'service_id': 'c9beb237-7e85-49b3-8561-0082fc8086ea'
+    },
+    'GET:befcfd7f-ccc3-484f-ba5c-fa2d22a915b6': {
+        'paths': [
+            '/auction/user/attention_list'],
+        'note': '',
+        'service_id': 'c9beb237-7e85-49b3-8561-0082fc8086ea'
+    },
+    'POST:8c587f83-111c-4c95-8e39-fded7249de73': {
+        'paths': [
+            '/auction/v210/payment/auction/buy_wechat_callback_pay'],
+        'note': '',
+        'service_id': 'c9beb237-7e85-49b3-8561-0082fc8086ea'
+    },
+    'GET:a5ea90ef-69bc-4cc3-8d88-27d6e62d9bcd': {
+        'paths': [
+            '/auction/v272/tea_room/task'],
+        'note': '',
+        'service_id': 'c9beb237-7e85-49b3-8561-0082fc8086ea'
+    },
+    'GET:e4fed00a-ae8e-4bfb-9f4f-73eca84d3613': {
+        'paths': [
+            '/auction/v210/buy_sell/order_sell_goods_info'],
+        'note': '',
+        'service_id': 'c9beb237-7e85-49b3-8561-0082fc8086ea'
+    },
+    'GET:95ece5a4-28e9-4f98-a595-6b08813c4919': {
+        'paths': [
+            '/auction/publish_success_content'],
+        'note': '',
+        'service_id': 'c9beb237-7e85-49b3-8561-0082fc8086ea'
+    },
+    'PUT:2cd6536d-38d8-4715-9c46-4fc78e7c1476': {
+        'paths': [
+            '/auction/v210/buy_sell/my_buy/detail/.*'],
+        'note': '',
+        'service_id': 'c9beb237-7e85-49b3-8561-0082fc8086ea'
+    },
+    'POST:7387538d-26f0-4560-a06c-9c4393bdd6c1': {
+        'paths': [
+            '/auction/v230/question/.*'],
+        'note': '',
+        'service_id': 'c9beb237-7e85-49b3-8561-0082fc8086ea'
+    },
+    'GET:dd78cfd2-38bb-4b20-9392-923edc3358c1': {
+        'paths': [
+            '/auction/v130/content/official_communication'],
+        'note': '',
+        'service_id': 'c9beb237-7e85-49b3-8561-0082fc8086ea'
+    },
+    'POST:c24d48ec-5ea3-4462-b563-e7a71fea4ddd': {
+        'paths': [
+            '/auction/payment/wechat_callback'],
+        'note': '',
+        'service_id': 'c9beb237-7e85-49b3-8561-0082fc8086ea'
+    },
+    'GET:706e88a3-5498-4984-ac7e-f2d1b1c4585b': {
+        'paths': [
+            '/auction/product_type'],
+        'note': '',
+        'service_id': 'c9beb237-7e85-49b3-8561-0082fc8086ea'
+    },
+    'GET:ab6b799a-e960-4db9-aa43-65668d6dd12a': {
+        'paths': [
+            '/auction/collect_content'],
+        'note': '',
+        'service_id': 'c9beb237-7e85-49b3-8561-0082fc8086ea'
+    },
+    'GET:c157cd25-5e23-4269-baa7-7e3b792f1ccf': {
+        'paths': [
+            '/auction/v210/buy_sell/goods_shelves_search'],
+        'note': '',
+        'service_id': 'c9beb237-7e85-49b3-8561-0082fc8086ea'
+    },
+    'POST:6da61c3f-cd2f-487c-a292-a1a9188094b2': {
+        'paths': [
+            '/auction/live/message'],
+        'note': '',
+        'service_id': 'c9beb237-7e85-49b3-8561-0082fc8086ea'
+    },
+    'POST:c466ae2a-bb84-4265-a809-e606e8531a75': {
+        'paths': [
+            '/auction/product_manage/v270/product_offer_refuse'],
+        'note': '',
+        'service_id': 'c9beb237-7e85-49b3-8561-0082fc8086ea'
+    },
+    'GET:4bc223bb-1c9a-43ed-9384-fc6c50f43246': {
+        'paths': [
+            '/auction/v272/tea_room/personal_imgs'],
+        'note': '',
+        'service_id': 'c9beb237-7e85-49b3-8561-0082fc8086ea'
+    },
+    'GET:d2309766-3a4a-459d-b6ef-3766bb7f53d4': {
+        'paths': [
+            '/auction/v272/tea_room/img_manage/.*'],
+        'note': '',
+        'service_id': 'c9beb237-7e85-49b3-8561-0082fc8086ea'
+    },
+    'GET:9abc3fa2-32e9-47f8-8575-288fce48be5f': {
+        'paths': [
+            '/auction/v220/content_search'],
+        'note': '',
+        'service_id': 'c9beb237-7e85-49b3-8561-0082fc8086ea'
+    },
+    'GET:3b98b045-29bf-46cc-8e08-ad484053674f': {
+        'paths': [
+            '/auction/v240/content/red_bag/.*'],
+        'note': '',
+        'service_id': 'c9beb237-7e85-49b3-8561-0082fc8086ea'
+    },
+    'POST:2d72fe8c-f861-441b-a320-1ba604657469': {
+        'paths': [
+            '/auction/v256/content/recommend_video'],
+        'note': '',
+        'service_id': 'c9beb237-7e85-49b3-8561-0082fc8086ea'
+    },
+    'GET:85b21d66-43bd-49f2-891f-4e7e6881c423': {
+        'paths': [
+            '/auction/order/details/.*'],
+        'note': '',
+        'service_id': 'c9beb237-7e85-49b3-8561-0082fc8086ea'
+    },
+    'GET:2f503741-8bf4-425e-b94b-c80ec44ca2e4': {
+        'paths': [
+            '/auction/v210/buy_sell/sell_order/list'],
+        'note': '',
+        'service_id': 'c9beb237-7e85-49b3-8561-0082fc8086ea'
+    },
+    'POST:e67ec94a-7994-4cdd-aaff-13079270bfc2': {
+        'paths': [
+            '/auction/v240/answers_comment/level_1/like'],
+        'note': '',
+        'service_id': 'c9beb237-7e85-49b3-8561-0082fc8086ea'
+    }
+}

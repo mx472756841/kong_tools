@@ -5,6 +5,17 @@ from flask import request, current_app
 
 from utils.amap import AMap
 
+# example
+ACTION_MAPPING = {
+    'POST:74e1ac0a-a791-48bd-b362-c01e7e9dd294': {
+        'paths': [
+            '/test/v1/handle'],
+        'note': '测试功能',
+        'service_id': 'c9beb237-7e85-49b3-8561-0082fc8086ea'
+    }
+
+}
+
 
 class HttpLog:
 
@@ -29,22 +40,20 @@ class HttpLog:
         try:
             token = request.json["request"]["headers"].get("x-access-token", "")
             if token:
-                print("token = %s" % token)
                 user_key = current_app.config["USER_KEY"] % token
-                print("user_key = %s" % user_key)
                 data = current_app.redis.get(user_key)
-                print("data = %s" % data)
                 if data:
                     request.json['user'] = json.loads(data.decode("utf-8"))
-                    print(request.json)
         except:
             traceback.print_exc()
 
     @classmethod
     def _get_action_info(cls):
-        request.json['action'] = ''
+        request.json['action'] = ""
         try:
-            request.json['action'] = ""
+            request.json['action'] = ACTION_MAPPING.get(
+                f"{request.json['request']['method']}:{request.json['route']['id']}", {}).get("note", "")
+
         except:
             traceback.print_exc()
 

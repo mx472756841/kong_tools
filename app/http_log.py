@@ -31,7 +31,6 @@ def post():
         # 将内容转发至elasticsearch
         es_service = Elasticsearch([current_app.config['ELASTICSEARCH_URL']])
         rv = es_service.index(current_app.config['ELASTICSEARCH_INDEX'], request.json)
-        logger.info("rv >>>> {} ".format(rv))
     except:
         logger.exception("处理httplog失败")
         resp["code"] = 99

@@ -3,13 +3,13 @@
 ## 构建原理
 Kong网关的工具
 
-[*] httplog插件扩展，将日志内容发送到elasticsearch中
+- [x]  扩展插件，根据ip地址+高德地图获取所在地
 
-[ ] 扩展插件，根据ip地址获取所在地
+- [x]  扩展插件，根据请求GET+ROUTE_ID获取到功能属性
 
-[ ] 扩展插件，根据请求URL+GET获取到功能属性
+- [x]  扩展插件，提取用户信息
 
-[ ] 扩展插件，提取用户信息
+- [x]  httplog 插件扩展，将日志内容添加到elasticsearch
 
 ## 部署
 ### virtualenv部署
@@ -38,14 +38,5 @@ docker run -p 10050:5000 -i -t -d \
 --env AMAP_KEY="高德地图的KEY" \
 --env ELASTICSEARCH_URL="请求的elastic search地址" \
 --name kong_tools kong_tools
-```
-
-## 使用
-```shell
-curl -i -X POST \
-    -H 'Content-Type: application/json' \
-    -H 'AccessToken: mSnbqTHqfIG6fIq6' \
-    --url http://localhost:10050/wechat/send \
-    -d '{"msg_type": "text","send_data": {"text": {"content": "测试消息"}},"to_users": ["要发送的用户"]}'
 ```
 
